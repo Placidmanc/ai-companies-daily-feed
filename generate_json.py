@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Define your data source
 def fetch_data():
-    url = "https://api.example.com/search?q=latest+events"  # Replace with your actual API or scraping logic
+    url = "https://jsonplaceholder.typicode.com/posts"  # Public API example
     response = requests.get(url)
     
     if response.status_code == 200:
