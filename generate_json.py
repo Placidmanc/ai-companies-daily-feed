@@ -1,30 +1,24 @@
-import json
 import requests
-from datetime import datetime
+import json
 
-# Define your data source
-def fetch_data():
-    url = "https://jsonplaceholder.typicode.com/posts"  # Public API example
-    response = requests.get(url)
+# Define API endpoint
+url = "https://api.thecompaniesapi.com/v2/companies"
+headers = {
+    "Authorization": "Basic IcoQtVTxF1ygEUlI4tJpZR5cGmmJRbVk"
+}
+
+# Make the GET request
+response = requests.get(url, headers=headers)
+
+if response.status_code == 200:
+    # Convert response to JSON
+    data = response.json()
     
-    if response.status_code == 200:
-        return response.json()
-    else:
-        return {"error": "Failed to fetch data"}
-
-# Transform data into a structured format
-def create_json():
-    data = fetch_data()
-    structured_data = {
-        "date": datetime.utcnow().strftime("%Y-%m-%d"),
-        "events": data.get("results", [])
-    }
-
     # Save JSON file
-    with open("daily_events.json", "w") as f:
-        json.dump(structured_data, f, indent=4)
-
+    with open("ai_companies.json", "w") as json_file:
+        json.dump(data, json_file, indent=4)
+    
     print("JSON file generated successfully.")
-
-if __name__ == "__main__":
-    create_json()
+else:
+    # Print the error message
+    print(f"Error: {response.status_code} - {response.text}")

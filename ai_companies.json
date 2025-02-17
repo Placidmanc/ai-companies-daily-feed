@@ -1,0 +1,4326 @@
+{
+    "companies": [
+        {
+            "about": {
+                "aboutUrl": "https://www.cisco.com/site/us/en/about/purpose/fy24-report/index.html",
+                "businessType": "public-company",
+                "industries": [
+                    "collaboration",
+                    "communications-infrastructure",
+                    "computer-networking",
+                    "computer-peripheral-equipment",
+                    "computer-software",
+                    "data-center",
+                    "enterprise-software",
+                    "enterprises",
+                    "hardware",
+                    "information-technology",
+                    "internet-service-providers",
+                    "nec",
+                    "networking",
+                    "security",
+                    "services",
+                    "software",
+                    "telecommunications",
+                    "telepresence",
+                    "unified-communication",
+                    "unified-computing-systems",
+                    "virtualization",
+                    "web-hosting",
+                    "wireless",
+                    "technology-information-and-internet",
+                    "it-services-and-it-consulting",
+                    "cloud-services",
+                    "security-systems-services",
+                    "software-development",
+                    "communications-equipment-manufacturing"
+                ],
+                "industry": "telecommunications",
+                "languages": [
+                    "ar",
+                    "cs",
+                    "da",
+                    "de",
+                    "en",
+                    "es",
+                    "fr",
+                    "hu",
+                    "it",
+                    "ja",
+                    "ko",
+                    "nl",
+                    "no",
+                    "pl",
+                    "pt",
+                    "ro",
+                    "ru",
+                    "sv",
+                    "th",
+                    "tr",
+                    "uk",
+                    "vi",
+                    "zh",
+                    "eng_Latn"
+                ],
+                "name": "Cisco",
+                "nameAlts": [
+                    "cis",
+                    "cisco",
+                    "cisco next generation firewall virtual",
+                    "cisco systems",
+                    "cisco systems, inc",
+                    "cisconextgenerationfirewallvirtual",
+                    "ciscosystems",
+                    "ciscosystems,inc"
+                ],
+                "nameLegal": "Cisco Systems, Inc.",
+                "totalEmployees": "over-10k",
+                "yearFounded": 1984,
+                "yearFoundedPlace": "San Jose, California"
+            },
+            "analytics": {
+                "monthlyVisitors": "50m-100m"
+            },
+            "assets": {
+                "cover": {
+                    "height": 630,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/cisco.com.jpg",
+                    "width": 1200
+                },
+                "logoSquare": {
+                    "height": 200,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/cisco.com.jpg",
+                    "width": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://www.cisco.com/c/en/us/about/careers.html"
+            },
+            "codes": {
+                "naics": "5415",
+                "sic": "7372"
+            },
+            "companies": {
+                "acquisitions": [
+                    {
+                        "description": "Sourcefire, Inc.",
+                        "descriptionShort": "Sourcefire, Inc.",
+                        "domain": "sourcefire.com",
+                        "name": "Sourcefire, part of Cis"
+                    },
+                    {
+                        "description": "Springpath is the pioneer in hyperconvergence software, turning standard servers of choice into a single pool of compute and storage resources.",
+                        "descriptionShort": "Springpath is the pioneer in hyperconvergence software, turning standard servers of choice into a single pool of compute and storage resources.",
+                        "domain": "springpathinc.com",
+                        "name": "Springpath"
+                    },
+                    {
+                        "description": "ThreatGRID is the first unified malware analysis and threat intelligence solution that is revolutionizing how organizations use accurate and context-rich intelligence to defend against advanced cyber attacks.",
+                        "descriptionShort": "ThreatGRID is the first unified malware analysis and threat intelligence solution that is revolutionizing how organizations use accurate and context-rich intelligence to defend against advanced cyber attacks.",
+                        "domain": "threatgrid.com",
+                        "name": "ThreatGRID, part of Cis"
+                    }
+                ],
+                "subsidiaries": [
+                    {
+                        "description": "At AppDynamics, our Application Intelligence Platform empowers today's software-defined businesses with the ability to proactively monitor, manage, and optimize the most complex software environments.",
+                        "descriptionShort": "At AppDynamics, our Application Intelligence Platform empowers today's software-defined businesses with the ability to proactively monitor, manage, and optimize the most complex software environments.",
+                        "domain": "appdynamics.com",
+                        "name": "AppDynamics"
+                    },
+                    {
+                        "description": "Cisco est le premier fournisseur mondial des technologies r\u00e9seaux qui transforment la fa\u00e7on dont les personnes communiquent, se connectent et travaillent ensemble.",
+                        "descriptionShort": "Cisco est le premier fournisseur mondial des technologies r\u00e9seaux qui transforment la fa\u00e7on dont les personnes communiquent, se connectent et travaillent ensemble.",
+                        "domain": "cisco.fr",
+                        "name": "Cisco Systems France"
+                    },
+                    {
+                        "description": "The name ThousandEyes was born from two big ideas: the power to see things not ordinarily possible and the ability to collect insights from a multitude of vantage points.",
+                        "descriptionShort": "The name ThousandEyes was born from two big ideas: the power to see things not ordinarily possible and the ability to collect insights from a multitude of vantage points.",
+                        "domain": "thousandeyes.com",
+                        "name": "ThousandEyes"
+                    },
+                    {
+                        "description": "TIBCO fuels digital business by enabling better decisions and faster, smarter actions through the TIBCO Connected Intelligence Cloud.",
+                        "descriptionShort": "TIBCO fuels digital business by enabling better decisions and faster, smarter actions through the TIBCO Connected Intelligence Cloud.",
+                        "domain": "tibco.com",
+                        "name": "TIBCO Software"
+                    },
+                    {
+                        "description": "Please follow  for all future updates.",
+                        "descriptionShort": "Please follow  for all future updates.",
+                        "domain": "ubiquisys.com",
+                        "name": "Ubiquisys - Now Part of Cis"
+                    },
+                    {
+                        "description": "As of May 2007, WebEx was acquired by Cisco Systems.",
+                        "descriptionShort": "As of May 2007, WebEx was acquired by Cisco Systems.",
+                        "domain": "webex.com",
+                        "name": "Webex"
+                    }
+                ]
+            },
+            "contacts": {
+                "emails": [
+                    {
+                        "category": "general",
+                        "value": "privacy@cisco.com"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "support@cisco.com"
+                    }
+                ],
+                "lines": [
+                    {
+                        "category": "general",
+                        "value": "Cisco Systems, Inc., San Jose, CA"
+                    }
+                ],
+                "phones": [
+                    {
+                        "category": "general",
+                        "value": "+1 (408) 526-4000"
+                    },
+                    {
+                        "category": "sales",
+                        "value": "+1 (800) 553-6387"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "+1 (800) 382-4463"
+                    }
+                ],
+                "whatsapps": [
+                    {
+                        "category": "general",
+                        "value": "+1 (408) 526-4000"
+                    }
+                ]
+            },
+            "contents": {
+                "blogUrl": "https://blogs.cisco.com/",
+                "developersUrl": "https://developer.cisco.com/modeling-labs/",
+                "eventsUrl": "https://www.cisco.com/c/en/us/training-events.html",
+                "partnershipUrl": "https://www.cisco.com/site/us/en/partners/black-belt-academy/index.html",
+                "sitemapUrl": "https://www.cisco.com/c/en/us/about/sitemap.html"
+            },
+            "descriptions": {
+                "primary": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. Cisco was founded in 1984 by a small group of computer scientists from Stanford University. Since the company's inception, Cisco engineers have been leaders in the development of Internet Protocol (IP)-based networking technologies. Today, with more than 71,000 employees worldwide, this tradition of innovation continues with industry-leading products and solutions in the company's core development areas of routing and switching, as well as in advanced technologies such as home networking, IP telephony, optical networking, security, storage area networking, and wireless technology. In addition to its products, Cisco provides a broad range of service offerings, including technical support and advanced services. Cisco sells its products and services, both directly through its own sales force as well as through its channel partners, to large enterprises, commercial businesses, service providers, and consumers.",
+                "tagline": "Cisco, please.",
+                "website": "Cisco is a global technology leader. Our purpose is to power an inclusive future for all through software, networking, security, computing, and more solutions."
+            },
+            "domain": {
+                "alias": "www.cisco.com",
+                "domain": "cisco.com",
+                "domainName": "cisco",
+                "registrar": "MarkMonitor Inc.",
+                "registrarUrl": "www.markmonitor.com",
+                "state": "operating",
+                "status": 200,
+                "tld": "com"
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockExchange": "nasdaq",
+                "stockSymbol": "CSCO"
+            },
+            "locations": {
+                "headquarters": {
+                    "address": {
+                        "raw": "170 W Tasman Dr"
+                    },
+                    "city": {
+                        "address": "170 W Tasman Dr",
+                        "code": "san-jose|california|us",
+                        "name": "San Jose"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "county": {
+                        "code": "santa-clara-county|us",
+                        "name": "Santa Clara County"
+                    },
+                    "state": {
+                        "code": "california|us",
+                        "name": "California"
+                    }
+                }
+            },
+            "meta": {
+                "listIds": [],
+                "mysqlId": 1158,
+                "score": 103,
+                "similarity": null,
+                "syncedAt": "2025-01-15T15:39:37.179Z"
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 92.3513
+                    },
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 2.9621
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.9757
+                    },
+                    {
+                        "pattern": "[F][L1]",
+                        "usagePercentage": 0.9321
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 0.9303
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 0.789
+                    },
+                    {
+                        "pattern": "[L][F1]",
+                        "usagePercentage": 0.5812
+                    },
+                    {
+                        "pattern": "[L1][F]",
+                        "usagePercentage": 0.2199
+                    },
+                    {
+                        "pattern": "[F1].[L]",
+                        "usagePercentage": 0.1169
+                    },
+                    {
+                        "pattern": "[F1][L1]",
+                        "usagePercentage": 0.0663
+                    },
+                    {
+                        "pattern": "[L][F]",
+                        "usagePercentage": 0.0489
+                    },
+                    {
+                        "pattern": "[F]_[L]",
+                        "usagePercentage": 0.014
+                    }
+                ]
+            },
+            "socials": {
+                "facebook": {
+                    "id": "Cisco",
+                    "url": "https://facebook.com/Cisco"
+                },
+                "instagram": {
+                    "id": "cisco",
+                    "url": "https://instagram.com/cisco"
+                },
+                "linkedin": {
+                    "id": "cisco",
+                    "idNumeric": "1063",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1063",
+                    "url": "https://linkedin.com/company/cisco"
+                },
+                "twitter": {
+                    "id": "Cisco",
+                    "url": "https://twitter.com/Cisco"
+                },
+                "wellfound": {
+                    "id": "cisco",
+                    "url": "http://angel.co/cisco"
+                },
+                "youtube": {
+                    "id": "cisco",
+                    "url": "https://youtube.com/user/cisco"
+                }
+            },
+            "technologies": {
+                "active": [
+                    "adobe-experience-manager",
+                    "akamai",
+                    "apache",
+                    "envoy-proxy",
+                    "openssl"
+                ],
+                "categories": [
+                    "application-server",
+                    "cloud-security",
+                    "confidentiality",
+                    "content-delivery-network",
+                    "content-experience-platforms",
+                    "content-management",
+                    "content-marketing",
+                    "customer-communications-management",
+                    "customer-service",
+                    "digital-experience-platforms",
+                    "digital-governance",
+                    "hosting",
+                    "it-infrastructure",
+                    "it-management",
+                    "marketing",
+                    "security",
+                    "service-mesh",
+                    "ssl-and-tls-certificates",
+                    "user-generated-content",
+                    "web-content-management"
+                ],
+                "details": [
+                    {
+                        "categories": [
+                            "content-experience-platforms",
+                            "content-management",
+                            "content-marketing",
+                            "customer-communications-management",
+                            "customer-service",
+                            "digital-experience-platforms",
+                            "digital-governance",
+                            "it-management",
+                            "marketing",
+                            "user-generated-content",
+                            "web-content-management"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:23.403Z",
+                        "detectionTypes": [
+                            "scripts",
+                            "tags"
+                        ],
+                        "slug": "adobe-experience-manager"
+                    },
+                    {
+                        "categories": [
+                            "content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:23.403Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "akamai"
+                    },
+                    {
+                        "categories": [
+                            "application-server",
+                            "it-infrastructure"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:23.403Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "apache"
+                    },
+                    {
+                        "categories": [
+                            "cloud-security",
+                            "security",
+                            "service-mesh"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:23.403Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "envoy-proxy"
+                    },
+                    {
+                        "categories": [
+                            "confidentiality",
+                            "security",
+                            "ssl-and-tls-certificates"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:23.403Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "openssl"
+                    }
+                ]
+            }
+        },
+        {
+            "about": {
+                "aboutUrl": "https://github.com/about/diversity",
+                "businessType": "public-company",
+                "industries": [
+                    "cloud-computing",
+                    "computer-programming",
+                    "computer-software",
+                    "data-processing",
+                    "developer-tools",
+                    "enterprise-software",
+                    "enterprises",
+                    "information-technology",
+                    "internet",
+                    "productivity",
+                    "project-management",
+                    "services",
+                    "software",
+                    "technology-information-and-internet",
+                    "it-services-and-it-consulting",
+                    "technology-information-and-media",
+                    "software-development",
+                    "version-control-services",
+                    "collaboration-platforms",
+                    "ai-services"
+                ],
+                "industry": "software-development",
+                "languages": [
+                    "eng_Latn"
+                ],
+                "name": "GitHub",
+                "nameAlts": [
+                    "github",
+                    "github, inc",
+                    "github,inc",
+                    "moden",
+                    "moden, llc",
+                    "moden,llc"
+                ],
+                "nameLegal": "GitHub, Inc.",
+                "totalEmployees": "200-500",
+                "totalEmployeesExact": 244,
+                "yearFounded": 2007,
+                "yearFoundedPlace": "San Francisco, CA"
+            },
+            "analytics": {
+                "monthlyVisitors": "over-1b"
+            },
+            "apps": {
+                "ios": [
+                    {
+                        "id": "1477376905",
+                        "type": "app",
+                        "url": "https://itunes.apple.com/app/id1477376905"
+                    }
+                ]
+            },
+            "assets": {
+                "colorPrimary": "#1e2327",
+                "cover": {
+                    "height": 630,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/github.com.jpg",
+                    "width": 1200
+                },
+                "logoSquare": {
+                    "height": 200,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/github.com.jpg",
+                    "width": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://github.careers/"
+            },
+            "codes": {
+                "naics": "5132",
+                "sic": "7372"
+            },
+            "contacts": {
+                "emails": [
+                    {
+                        "category": "general",
+                        "value": "support@github.com"
+                    },
+                    {
+                        "category": "sales",
+                        "value": "enterprise@github.com"
+                    }
+                ],
+                "lines": [
+                    {
+                        "value": "https://github.com/support"
+                    }
+                ],
+                "phones": [
+                    {
+                        "category": "general",
+                        "value": "+1 (877) 448-4820"
+                    }
+                ]
+            },
+            "contents": {
+                "blogUrl": "https://github.blog/",
+                "docsUrl": "https://docs.github.com/",
+                "partnershipUrl": "https://partner.github.com/",
+                "sitemapUrl": "https://github.com/sitemap",
+                "statusUrl": "https://www.githubstatus.com/",
+                "updatesUrl": "https://resources.github.com/newsletter/"
+            },
+            "descriptions": {
+                "primary": "GitHub is how people build software. With a community of more than 14 million people, developers can discover, use and contribute to over 25 million projects using a powerful, collaborative workflow. Whether using GitHub.com or your own instance of GitHub Enterprise, you can integrate GitHub with third party tools, from project management to continuous deployment, to build software in the way that works best for you.",
+                "tagline": "GitHub",
+                "website": "GitHub is where people build software. More than 100 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+            },
+            "domain": {
+                "domain": "github.com",
+                "domainName": "github",
+                "registrar": "MarkMonitor Inc.",
+                "registrarUrl": "www.markmonitor.com",
+                "state": "operating",
+                "status": 200,
+                "tld": "com"
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockExchange": "nasdaq",
+                "stockSymbol": "MSFT"
+            },
+            "locations": {
+                "headquarters": {
+                    "address": {
+                        "raw": "9518 cherry oak court"
+                    },
+                    "city": {
+                        "address": "9518 cherry oak court",
+                        "code": "san-francisco|california|us",
+                        "name": "San Francisco"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "county": {
+                        "code": "san-francisco|us",
+                        "name": "San Francisco"
+                    },
+                    "state": {
+                        "code": "california|us",
+                        "name": "California"
+                    }
+                }
+            },
+            "meta": {
+                "listIds": [],
+                "mysqlId": 16743592,
+                "score": 103,
+                "similarity": null,
+                "syncedAt": "2025-01-15T14:00:02.469Z"
+            },
+            "products": {
+                "pricingUrl": "https://github.com/pricing"
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 66.9057
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 18.75
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 8.9139
+                    },
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 3.0738
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 1.127
+                    },
+                    {
+                        "pattern": "[F][L1]",
+                        "usagePercentage": 0.8197
+                    },
+                    {
+                        "pattern": "[F1][L1]",
+                        "usagePercentage": 0.2049
+                    },
+                    {
+                        "pattern": "[F]-[L]",
+                        "usagePercentage": 0.1025
+                    },
+                    {
+                        "pattern": "[F1]-[L]",
+                        "usagePercentage": 0.1025
+                    }
+                ]
+            },
+            "socials": {
+                "facebook": {
+                    "id": "github",
+                    "url": "http://www.facebook.com/github"
+                },
+                "github": {
+                    "id": "github",
+                    "url": "https://github.com/github"
+                },
+                "instagram": {
+                    "id": "github",
+                    "url": "https://instagram.com/github"
+                },
+                "linkedin": {
+                    "id": "github",
+                    "idNumeric": "1418841",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1418841",
+                    "url": "https://linkedin.com/company/github"
+                },
+                "tiktok": {
+                    "id": "github",
+                    "url": "https://tiktok.com/@github"
+                },
+                "twitch": {
+                    "id": "github",
+                    "url": "https://twitch.tv/github"
+                },
+                "twitter": {
+                    "id": "github",
+                    "url": "https://x.com/github"
+                },
+                "wellfound": {
+                    "id": "github",
+                    "url": "http://angel.co/github"
+                },
+                "youtube": {
+                    "id": "github",
+                    "url": "https://youtube.com/github"
+                }
+            },
+            "technologies": {
+                "active": [
+                    "google-workspace",
+                    "react",
+                    "react-router"
+                ],
+                "categories": [
+                    "business-instant-messaging",
+                    "calendar",
+                    "cloud-content-collaboration",
+                    "content-management",
+                    "document-creation",
+                    "email",
+                    "idea-management",
+                    "internal-communications",
+                    "javascript-web-frameworks",
+                    "note-taking-management",
+                    "office",
+                    "office-suites",
+                    "presentation",
+                    "screen-sharing",
+                    "spreadsheets",
+                    "survey",
+                    "team-collaboration",
+                    "video-conferencing",
+                    "website-builder"
+                ],
+                "details": [
+                    {
+                        "categories": [
+                            "business-instant-messaging",
+                            "calendar",
+                            "cloud-content-collaboration",
+                            "content-management",
+                            "document-creation",
+                            "email",
+                            "idea-management",
+                            "internal-communications",
+                            "note-taking-management",
+                            "office",
+                            "office-suites",
+                            "presentation",
+                            "screen-sharing",
+                            "spreadsheets",
+                            "survey",
+                            "team-collaboration",
+                            "video-conferencing",
+                            "website-builder"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:22.221Z",
+                        "detectionTypes": [
+                            "dns"
+                        ],
+                        "slug": "google-workspace"
+                    },
+                    {
+                        "categories": [
+                            "javascript-web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:22.221Z",
+                        "detectionTypes": [
+                            "scripts"
+                        ],
+                        "slug": "react"
+                    },
+                    {
+                        "categories": [
+                            "javascript-web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-29T00:24:22.221Z",
+                        "detectionTypes": [
+                            "variables"
+                        ],
+                        "slug": "react-router"
+                    }
+                ]
+            }
+        },
+        {
+            "about": {
+                "aboutUrl": "https://www.cognizant.com/us/en/about-cognizant/corporate-governance/leadership-team",
+                "businessType": "public-company",
+                "industries": [
+                    "analytics-information-management",
+                    "analytics-services",
+                    "application-services",
+                    "bi",
+                    "business-process-outsourcing",
+                    "business-process-services",
+                    "cloud",
+                    "cloud-solutions",
+                    "computer-software",
+                    "consulting",
+                    "crm",
+                    "crm-solutions",
+                    "digital-services",
+                    "enterprise-risk-security",
+                    "enterprise-software",
+                    "enterprises",
+                    "erp-solutions",
+                    "hcm",
+                    "industrial-automation",
+                    "industrial-engineering",
+                    "information-technology",
+                    "information-technology-and-services",
+                    "infrastructure-services",
+                    "intelligent-automation",
+                    "iot",
+                    "it-services",
+                    "mechanical",
+                    "outsourcing-services",
+                    "prepackaged-software",
+                    "quality-engg-assurance",
+                    "sales",
+                    "scm",
+                    "services",
+                    "software",
+                    "solutions",
+                    "supply-chain-management-solutions",
+                    "technology-strategy-consulting",
+                    "technology-information-and-internet",
+                    "software-development",
+                    "business-consulting-and-services",
+                    "digital-transformation-services",
+                    "artificial-intelligence",
+                    "technology-information-and-media",
+                    "data-infrastructure-and-analytics",
+                    "cloud-services"
+                ],
+                "industry": "it-services-and-it-consulting",
+                "languages": [
+                    "de",
+                    "en",
+                    "es",
+                    "fr",
+                    "it",
+                    "ja",
+                    "nl",
+                    "no",
+                    "pt",
+                    "sv",
+                    "zh",
+                    "eng_Latn"
+                ],
+                "name": "Cognizant",
+                "nameAlts": [
+                    "Cognizant Technology Solutions Corp"
+                ],
+                "nameLegal": "Cognizant Technology Solutions Corporation",
+                "totalEmployees": "over-10k",
+                "yearFounded": 1994,
+                "yearFoundedPlace": "United States"
+            },
+            "analytics": {
+                "monthlyVisitors": "10m-50m"
+            },
+            "assets": {
+                "cover": {
+                    "height": 627,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/cognizant.com.jpg",
+                    "width": 1200
+                },
+                "logoSquare": {
+                    "height": 200,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/cognizant.com.jpg",
+                    "width": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://careers.cognizant.com/global-en/"
+            },
+            "codes": {
+                "naics": "541512",
+                "sic": "7373"
+            },
+            "companies": {
+                "acquisitions": [
+                    {
+                        "domain": "avectushealth.com",
+                        "name": "AVECTUS HEALTHCARE SOLUTIONS"
+                    },
+                    {
+                        "domain": "boldermanagement.com",
+                        "name": "bolder anesthesia management"
+                    },
+                    {
+                        "domain": "bolderbilling.com",
+                        "name": "bolder billing services"
+                    },
+                    {
+                        "description": "Brilliantservice is a SmartPhone App development company in Japan.",
+                        "descriptionShort": "Brilliantservice is a SmartPhone App development company in Japan.",
+                        "domain": "brilliantservice.co.jp",
+                        "name": "\u767b\u9332\u8ca9\u58f2\u8005\u8cc7\u683c\u53d7\u9a13\u30ca\u30d3"
+                    },
+                    {
+                        "description": "We are Hedera.",
+                        "descriptionShort": "We are Hedera.",
+                        "domain": "hederaconsulting.com",
+                        "name": "Hedera Consulting"
+                    },
+                    {
+                        "description": "Since its founding in 1999, itaas, a Cognizant Company has worked with hundreds of leading service providers, technology vendors, application developers and content providers to create and bring innovative software applications and services to the consumer.",
+                        "descriptionShort": "Since its founding in 1999, itaas, a Cognizant Company has worked with hundreds of leading service providers, technology vendors, application developers and content providers to create and bring innovative software applications and services to the consumer.",
+                        "domain": "itaas.com",
+                        "name": "itaas"
+                    },
+                    {
+                        "description": "Bolder Outreach Solutions provides bolder outcomes for exhausted Medicaid reimbursement through on-site patient advocates, localized patient eligibility screening services, preauthorization, medical review and audits.",
+                        "descriptionShort": "Bolder Outreach Solutions provides bolder outcomes for exhausted Medicaid reimbursement through on-site patient advocates, localized patient eligibility screening services, preauthorization, medical review and audits.",
+                        "domain": "bolderhealthcare.com",
+                        "name": "Bolder Outreach Solutions"
+                    },
+                    {
+                        "domain": "bolderoutreach.com",
+                        "name": "bolder outreach solutions"
+                    },
+                    {
+                        "description": "(Nova IT was acquired by Cognizant in January 2017)Nova IT specialises in information technology recruitment services.",
+                        "descriptionShort": "(Nova IT was acquired by Cognizant in January 2017)Nova IT specialises in information technology recruitment services.",
+                        "domain": "novait.com.au",
+                        "name": "NovaIT"
+                    },
+                    {
+                        "description": "Bolder Outreach Solutions provides bolder outcomes for exhausted Medicaid reimbursement through on-site patient advocates, localized patient eligibility screening services, preauthorization, medical review and audits.",
+                        "descriptionShort": "Bolder Outreach Solutions provides bolder outcomes for exhausted Medicaid reimbursement through on-site patient advocates, localized patient eligibility screening services, preauthorization, medical review and audits.",
+                        "domain": "bolderhealthcare.com",
+                        "name": "Bolder Outreach Solutions"
+                    },
+                    {
+                        "description": "Bolder Outreach Solutions provides bolder outcomes for exhausted Medicaid reimbursement through on-site patient advocates, localized patient eligibility screening services, preauthorization, medical review and audits.",
+                        "descriptionShort": "Bolder Outreach Solutions provides bolder outcomes for exhausted Medicaid reimbursement through on-site patient advocates, localized patient eligibility screening services, preauthorization, medical review and audits.",
+                        "domain": "bolderhealthcare.com",
+                        "name": "Bolder Outreach Solutions"
+                    },
+                    {
+                        "description": "ROI\u2019s scope of Patient Financial Services focuses on A/R Legacy System Conversions, Medical Record Coding and Bill Audits, Medicaid Eligibility, Patient Access Management, Charge Master Reviews and Consulting, Healthcare Insurance Billing and Follow up, Denial Management, Bad Debt Collections, Early Out Collections, Legal Collections, Customer Service Call Center Services, and Out of State Medicaid Services.",
+                        "descriptionShort": "ROI\u2019s scope of Patient Financial Services focuses on A/R Legacy System Conversions, Medical Record Coding and Bill Audits, Medicaid Eligibility, Patient Access Management, Charge Master Reviews and Consulting, Healthcare Insurance Billing and Follow up, Denial Management, Bad Debt Collections, Early Out Collections, Legal Collections, Customer Service Call Center Services, and Out of State Medicaid Services.",
+                        "domain": "theroi.com",
+                        "name": "The ROI Companies"
+                    },
+                    {
+                        "description": "Leveraging a decade of digital stewardship, Cadient, a Cognizant company, is redefining how life science companies commercialize their brands and engage with their core audiences.",
+                        "descriptionShort": "Leveraging a decade of digital stewardship, Cadient, a Cognizant company, is redefining how life science companies commercialize their brands and engage with their core audiences.",
+                        "domain": "cadient.com",
+                        "name": "Cadient"
+                    },
+                    {
+                        "description": "TMG Health is a leading national provider of expert solutions for Medicare Advantage, Medicare Part D and Managed Medicaid plans.",
+                        "descriptionShort": "TMG Health is a leading national provider of expert solutions for Medicare Advantage, Medicare Part D and Managed Medicaid plans.",
+                        "domain": "tmghealth.com",
+                        "name": "TMG Health"
+                    },
+                    {
+                        "domain": "valuesource.in",
+                        "name": "valuesource technologies"
+                    }
+                ],
+                "subsidiaries": [
+                    {
+                        "description": "ATG - The Experts in Quote to Cash Strategy & Implementation ConsultingEverything we do at Advanced Technology Group is based upon decades of tried and true best practices blended with the latest proven technologies and processes.",
+                        "descriptionShort": "ATG - The Experts in Quote to Cash Strategy & Implementation ConsultingEverything we do at Advanced Technology Group is based upon decades of tried and true best practices blended with the latest proven technologies and processes.",
+                        "domain": "atginfo.com",
+                        "name": "ATG Cognizant"
+                    },
+                    {
+                        "description": "In 2013, Equinox joined Cognizant (NASDAQ: CTSH), a leading provider of consulting, information technology, and business process services and expanded its services to other industries including life sciences, healthcare and communications.",
+                        "descriptionShort": "In 2013, Equinox joined Cognizant (NASDAQ: CTSH), a leading provider of consulting, information technology, and business process services and expanded its services to other industries including life sciences, healthcare and communications.",
+                        "domain": "equinox-cognizant.com",
+                        "name": "Equinox Consulting"
+                    },
+                    {
+                        "description": "Collaborative Solutions is a leading global Finance and HR Transformation consultancy that leverages world-class cloud solutions to help deliver successful outcomes for its customers.",
+                        "descriptionShort": "Collaborative Solutions is a leading global Finance and HR Transformation consultancy that leverages world-class cloud solutions to help deliver successful outcomes for its customers.",
+                        "domain": "collaborativesolutions.com",
+                        "name": "Collaborative Solutions"
+                    },
+                    {
+                        "description": "EI Technologies est un groupe fran\u00e7ais et ind\u00e9pendant de Conseil et de Services en Syst\u00e8mes d'Information qui compte 250 personnes.",
+                        "descriptionShort": "EI Technologies est un groupe fran\u00e7ais et ind\u00e9pendant de Conseil et de Services en Syst\u00e8mes d'Information qui compte 250 personnes.",
+                        "domain": "ei-technologies.com",
+                        "name": "EI-Technologies"
+                    },
+                    {
+                        "description": "Idea Couture Inc.",
+                        "descriptionShort": "Idea Couture Inc.",
+                        "domain": "ideacouture.com",
+                        "name": "Idea Couture"
+                    },
+                    {
+                        "description": "Lev is a premier digital consultancy that connects top brands to their customers using Salesforce.",
+                        "descriptionShort": "Lev is a premier digital consultancy that connects top brands to their customers using Salesforce.",
+                        "domain": "levdigital.com",
+                        "name": "Lev"
+                    },
+                    {
+                        "description": "Founded in 2000, Merit Software is the leading provider of specialised Cash and Tax management solutions (Receivables & Payables) to the Capital Markets industry globally.",
+                        "descriptionShort": "Founded in 2000, Merit Software is the leading provider of specialised Cash and Tax management solutions (Receivables & Payables) to the Capital Markets industry globally.",
+                        "domain": "meritsoft.com",
+                        "name": "MeritSoft"
+                    },
+                    {
+                        "description": "We are Mirabeau, a full-service digital agency.",
+                        "descriptionShort": "We are Mirabeau, a full-service digital agency.",
+                        "domain": "mirabeau.nl",
+                        "name": "Mirabeau"
+                    },
+                    {
+                        "description": "We are an experienced Finnish company developing solutions and providing services for the financial sector.",
+                        "descriptionShort": "We are an experienced Finnish company developing solutions and providing services for the financial sector.",
+                        "domain": "samlink.fi",
+                        "name": "Samlink"
+                    },
+                    {
+                        "description": "SaaSfocus is an agile Consulting, Design and Development company.",
+                        "descriptionShort": "SaaSfocus is an agile Consulting, Design and Development company.",
+                        "domain": "saasfocus.com",
+                        "name": "SaaSFocus"
+                    },
+                    {
+                        "description": "We are a leading product engineering company, creating impactful end to end digital products and solutions that connect brands with customers.",
+                        "descriptionShort": "We are a leading product engineering company, creating impactful end to end digital products and solutions that connect brands with customers.",
+                        "domain": "cognizantsoftvision.com",
+                        "name": "Cognizant Softvision"
+                    },
+                    {
+                        "description": "More than 340,000 providers trust healthcare clearinghouse TriZetto Provider Solutions'\u200b advanced medical claims processing solutions and proactive service team to simplify revenue cycle management.",
+                        "descriptionShort": "More than 340,000 providers trust healthcare clearinghouse TriZetto Provider Solutions'\u200b advanced medical claims processing solutions and proactive service team to simplify revenue cycle management.",
+                        "domain": "trizettoprovider.com",
+                        "name": "TriZetto Provider Solutions"
+                    },
+                    {
+                        "description": "Zenith Technologies operates primarily in the Life Sciences industry; we are world leaders in delivering manufacturing software systems that make pharmaceutical businesses compliant and competitive.",
+                        "descriptionShort": "Zenith Technologies operates primarily in the Life Sciences industry; we are world leaders in delivering manufacturing software systems that make pharmaceutical businesses compliant and competitive.",
+                        "domain": "zenithtechnologies.com",
+                        "name": "Zenith Technologies"
+                    },
+                    {
+                        "description": "Mission Critical Digital.",
+                        "descriptionShort": "Mission Critical Digital.",
+                        "domain": "zonedigital.com",
+                        "name": "Zone"
+                    }
+                ]
+            },
+            "contacts": {
+                "emails": [
+                    {
+                        "category": "general",
+                        "value": "info@cognizant.com"
+                    },
+                    {
+                        "category": "sales",
+                        "value": "sales@cognizant.com"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "support@cognizant.com"
+                    }
+                ],
+                "lines": [
+                    {
+                        "category": "general",
+                        "value": "One Hackensack Plaza, 4 Paragon Drive, Montvale, NJ 07645, USA"
+                    }
+                ],
+                "phones": [
+                    {
+                        "category": "general",
+                        "value": "+1 201-678-5000"
+                    },
+                    {
+                        "category": "sales",
+                        "value": "+1 201-678-5100"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "+1 201-678-5200"
+                    }
+                ],
+                "whatsapps": [
+                    {
+                        "category": "general",
+                        "value": "+1 201-678-5000"
+                    }
+                ]
+            },
+            "contents": {
+                "blogUrl": "https://www.cognizant.com/us/en/insights/insights-blog",
+                "eventsUrl": "https://www.cognizant.com/us/en/events",
+                "partnershipUrl": "https://www.cognizant.com/us/en/about-cognizant/partners",
+                "sitemapUrl": "https://www.cognizant.com/us/en/sitemap",
+                "updatesUrl": "https://news.cognizant.com/"
+            },
+            "descriptions": {
+                "primary": "Cognizant (NASDAQ-100: CTSH) is one of the world's leading professional services companies, transforming clients'\u200b business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U. S., Cognizant is ranked 205 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @Cognizant.",
+                "tagline": "Intuition engineered",
+                "website": "Anticipate trends. Drive meaningful change. Outthink your competition. That's the power of intuition - and we can engineer it. Learn more."
+            },
+            "domain": {
+                "alias": "www.cognizant.com",
+                "domain": "cognizant.com",
+                "domainName": "cognizant",
+                "registrar": "CSC Corporate Domains, Inc.",
+                "registrarUrl": "cscdbs.com",
+                "state": "operating",
+                "status": 200,
+                "tld": "com"
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockExchange": "nasdaq",
+                "stockSymbol": "CTSH"
+            },
+            "locations": {
+                "headquarters": {
+                    "address": {
+                        "raw": "500 frank west burr boulevard"
+                    },
+                    "city": {
+                        "address": "500 frank west burr boulevard",
+                        "code": "teaneck-township|new-jersey|us",
+                        "name": "Teaneck Township"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "county": {
+                        "code": "bergen-county|us",
+                        "name": "Bergen County"
+                    },
+                    "state": {
+                        "code": "new-jersey|us",
+                        "name": "New Jersey"
+                    }
+                }
+            },
+            "meta": {
+                "listIds": [],
+                "mysqlId": 16745477,
+                "score": 102,
+                "similarity": null,
+                "syncedAt": "2025-01-15T15:42:33.849Z"
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 99.3382
+                    },
+                    {
+                        "pattern": "[F].[L1]",
+                        "usagePercentage": 0.1683
+                    },
+                    {
+                        "pattern": "[L].[F]",
+                        "usagePercentage": 0.1227
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 0.0906
+                    },
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 0.0784
+                    },
+                    {
+                        "pattern": "[L1][F]",
+                        "usagePercentage": 0.077
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.0506
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 0.0471
+                    }
+                ]
+            },
+            "socials": {
+                "facebook": {
+                    "id": "Cognizant",
+                    "url": "https://facebook.com/Cognizant"
+                },
+                "instagram": {
+                    "id": "cognizant",
+                    "url": "https://instagram.com/cognizant"
+                },
+                "linkedin": {
+                    "id": "cognizant",
+                    "idNumeric": "1680",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1680",
+                    "url": "https://linkedin.com/company/cognizant"
+                },
+                "twitter": {
+                    "id": "cognizant",
+                    "url": "https://twitter.com/cognizant"
+                },
+                "wellfound": {
+                    "id": "cognizant-technology-solutions",
+                    "url": "http://angel.co/cognizant-technology-solutions"
+                },
+                "youtube": {
+                    "id": "cognizant",
+                    "url": "https://youtube.com/cognizant"
+                }
+            },
+            "technologies": {
+                "active": [
+                    "adobe-experience-manager",
+                    "cloudflare-cdn",
+                    "microsoft-365",
+                    "microsoft-asp-net",
+                    "php"
+                ],
+                "categories": [
+                    "content-delivery-network",
+                    "content-experience-platforms",
+                    "content-management",
+                    "content-marketing",
+                    "customer-communications-management",
+                    "customer-service",
+                    "development",
+                    "digital-experience-platforms",
+                    "digital-governance",
+                    "enterprise-content-delivery-network",
+                    "hosting",
+                    "it-management",
+                    "marketing",
+                    "office",
+                    "office-suites",
+                    "other-web-frameworks",
+                    "programming-languages",
+                    "user-generated-content",
+                    "web-content-management",
+                    "web-frameworks"
+                ],
+                "details": [
+                    {
+                        "categories": [
+                            "content-experience-platforms",
+                            "content-management",
+                            "content-marketing",
+                            "customer-communications-management",
+                            "customer-service",
+                            "digital-experience-platforms",
+                            "digital-governance",
+                            "it-management",
+                            "marketing",
+                            "user-generated-content",
+                            "web-content-management"
+                        ],
+                        "detectedAt": "2024-12-28T14:08:23.573Z",
+                        "detectionTypes": [
+                            "scripts",
+                            "tags"
+                        ],
+                        "slug": "adobe-experience-manager"
+                    },
+                    {
+                        "categories": [
+                            "content-delivery-network",
+                            "enterprise-content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-28T14:08:23.573Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "cloudflare-cdn"
+                    },
+                    {
+                        "categories": [
+                            "office",
+                            "office-suites"
+                        ],
+                        "detectedAt": "2024-12-28T14:08:23.573Z",
+                        "detectionTypes": [
+                            "dns"
+                        ],
+                        "slug": "microsoft-365"
+                    },
+                    {
+                        "categories": [
+                            "development",
+                            "other-web-frameworks",
+                            "web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-28T14:08:23.573Z",
+                        "detectionTypes": [
+                            "urls"
+                        ],
+                        "slug": "microsoft-asp-net"
+                    },
+                    {
+                        "categories": [
+                            "programming-languages"
+                        ],
+                        "detectedAt": "2024-12-28T14:08:23.573Z",
+                        "detectionTypes": [
+                            "urls"
+                        ],
+                        "slug": "php"
+                    }
+                ]
+            }
+        },
+        {
+            "meta": {
+                "listIds": [],
+                "mysqlId": 16743525,
+                "score": 101,
+                "similarity": null,
+                "syncedAt": "2024-12-03T03:39:30.629Z"
+            },
+            "about": {
+                "name": "PayPal",
+                "industry": "internet",
+                "nameAlts": [
+                    "paypal",
+                    "paypal holdings",
+                    "paypal holdings inc",
+                    "paypalholdings",
+                    "paypalholdingsinc"
+                ],
+                "industries": [
+                    "accountants",
+                    "banks",
+                    "computer-software",
+                    "consumer-internet",
+                    "consumers",
+                    "credit-unions",
+                    "databases",
+                    "e-commerce",
+                    "e-commerce-platforms",
+                    "ecommerce",
+                    "enterprise-software",
+                    "enterprises",
+                    "finance",
+                    "finance-technology",
+                    "financial-services",
+                    "fintech",
+                    "information-technology",
+                    "internet",
+                    "mobile-commerce",
+                    "mobile-payments",
+                    "monetization-for-developers",
+                    "money-transfers",
+                    "online-payments",
+                    "p2p-money-transfer",
+                    "payment-processing",
+                    "payment-security",
+                    "payments",
+                    "peer-to-peer",
+                    "professional-services",
+                    "services",
+                    "short-term-business-credit",
+                    "software",
+                    "transaction-processing"
+                ],
+                "yearFounded": 1998,
+                "totalEmployees": "over-10k",
+                "totalEmployeesExact": 36250,
+                "languages": [
+                    "eng_Latn"
+                ],
+                "nameLegal": "PayPal",
+                "businessType": "privately-held"
+            },
+            "codes": {
+                "sic": "6153",
+                "naics": "522320"
+            },
+            "domain": {
+                "tld": "com",
+                "domain": "paypal.com",
+                "domainName": "paypal",
+                "status": 200
+            },
+            "socials": {
+                "twitter": {
+                    "id": "paypal",
+                    "url": "https://twitter.com/paypal"
+                },
+                "facebook": {
+                    "id": "paypalturkiye",
+                    "url": "https://www.facebook.com/paypalturkiye"
+                },
+                "linkedin": {
+                    "url": "https://www.linkedin.com/company/1482",
+                    "idNumeric": "1482",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1482"
+                },
+                "wellfound": {
+                    "id": "paypal",
+                    "url": "http://angel.co/paypal"
+                }
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockSymbol": "PYPL",
+                "stockExchange": "NASDAQ"
+            },
+            "analytics": {
+                "monthlyVisitors": "over-1b"
+            },
+            "companies": {
+                "acquisitions": [
+                    {
+                        "name": "Curv",
+                        "domain": "curv.co"
+                    }
+                ],
+                "subsidiaries": [
+                    {
+                        "name": "Braintree",
+                        "domain": "braintreepayments.com",
+                        "description": "We provide the global commerce tools people need to build businesses, accept payments, and enable commerce for their users.",
+                        "descriptionShort": "We provide the global commerce tools people need to build businesses, accept payments, and enable commerce for their users."
+                    },
+                    {
+                        "name": "Honey",
+                        "domain": "joinhoney.com",
+                        "description": "Founded in 2012 and based in Downtown, Los Angeles, Honey is the easiest way to save when shopping online! We currently have a coupon applying browser extension (available on Google Chrome, Safari, Firefox, etc.",
+                        "descriptionShort": "Founded in 2012 and based in Downtown, Los Angeles, Honey is the easiest way to save when shopping online! We currently have a coupon applying browser extension (available on Google Chrome, Safari, Firefox, etc."
+                    },
+                    {
+                        "name": "Venmo",
+                        "domain": "venmo.com",
+                        "description": "At Venmo, we're working to build a payment experience that's simple, delightful and connected.",
+                        "descriptionShort": "At Venmo, we're working to build a payment experience that's simple, delightful and connected."
+                    },
+                    {
+                        "name": "Xoom, A PayPal Service",
+                        "domain": "xoom.com",
+                        "description": "Xoom is a leading digital money transfer provider that enables consumers to send money, pay international bills, or reload phones for family and friends around the world.",
+                        "descriptionShort": "Xoom is a leading digital money transfer provider that enables consumers to send money, pay international bills, or reload phones for family and friends around the world."
+                    }
+                ]
+            },
+            "locations": {
+                "headquarters": {
+                    "city": {
+                        "code": "san-jose|california|us",
+                        "name": "San Jose",
+                        "address": "2211 north first street"
+                    },
+                    "state": {
+                        "code": "california|us",
+                        "name": "California"
+                    },
+                    "county": {
+                        "code": "santa-clara-county|us",
+                        "name": "Santa Clara County"
+                    },
+                    "address": {
+                        "raw": "2211 north first street"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    }
+                }
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 95.1558
+                    },
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 3.4849
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 0.4555
+                    },
+                    {
+                        "pattern": "[L1][F]",
+                        "usagePercentage": 0.3687
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 0.3326
+                    },
+                    {
+                        "pattern": "[F][L1]",
+                        "usagePercentage": 0.0723
+                    },
+                    {
+                        "pattern": "[F1][L1]",
+                        "usagePercentage": 0.0434
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.0289
+                    },
+                    {
+                        "pattern": "[L][F]",
+                        "usagePercentage": 0.0145
+                    },
+                    {
+                        "pattern": "[L].[F]",
+                        "usagePercentage": 0.0145
+                    },
+                    {
+                        "pattern": "[F1][M1][L]",
+                        "usagePercentage": 0.0145
+                    }
+                ]
+            },
+            "descriptions": {
+                "primary": "HELP US REIMAGINE MONEY. At PayPal, we believe that now is the time to democratize financial services so that moving and managing money is a right for all citizens, not just the affluent. We are driven by this purpose, and we uphold our cultural values of collaboration, innovation, wellness and inclusion as our guide for making decisions and conducting business every day. It is our duty and privilege to be customer champions and put those we serve at the center of everything we do. We are one team that respects and values diversity of thought for everyone, everywhere, and we actively seek to create an energizing workplace that brings out the best in all of us. If you're ready to shape the future of money, join the team at PayPal. We're proud to work here. You will be too. PayPal is headquartered in San Jose, California and its international headquarters is located in Singapore. More information about the company can be found at www.paypal-media.com.",
+                "tagline": "Pay, send and save money with PayPal",
+                "website": "From paying friends to saving money or getting cash back when you shop, explore what the new PayPal app has to offer."
+            },
+            "assets": {
+                "cover": {
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/paypal.com.jpg",
+                    "width": 2400,
+                    "height": 1260
+                },
+                "logoSquare": {
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/paypal.com.jpg",
+                    "width": 200,
+                    "height": 200
+                },
+                "colorPrimary": "#012169"
+            },
+            "contents": {
+                "eventsUrl": "https://www.paypal.com/us/webapps/mpp/campaigns/paypal-events",
+                "developersUrl": "https://www.paypal.com/us/business/financial-services/working-capital",
+                "partnershipUrl": "https://www.paypal.com/us/enterprise/become-a-partner"
+            },
+            "products": {
+                "pricingUrl": "https://www.paypal.com/us/business/pricing"
+            },
+            "technologies": {
+                "active": [
+                    "apple-business-manager",
+                    "datadog",
+                    "microsoft-asp-net",
+                    "paypal",
+                    "stripe"
+                ],
+                "details": [
+                    {
+                        "slug": "apple-business-manager",
+                        "categories": [
+                            "cloud-file-storage",
+                            "office-suites",
+                            "team-collaboration"
+                        ],
+                        "detectedAt": "2024-12-03T03:38:56.224Z",
+                        "detectionTypes": [
+                            "dns"
+                        ]
+                    },
+                    {
+                        "slug": "datadog",
+                        "categories": [
+                            "aiops-platforms",
+                            "api-marketplaces",
+                            "application-performance-monitoring",
+                            "cloud-infrastructure-monitoring",
+                            "container-monitoring",
+                            "containerization",
+                            "database-monitoring",
+                            "development",
+                            "devops",
+                            "devsecops",
+                            "enterprise-monitoring",
+                            "incident-response",
+                            "iot-analytics",
+                            "iot-device-management",
+                            "iot-management",
+                            "it-alerting",
+                            "it-infrastructure",
+                            "it-management",
+                            "log-analysis",
+                            "log-monitoring",
+                            "monitoring",
+                            "network-monitoring",
+                            "network-security",
+                            "network-traffic-analysis",
+                            "observability-solution-suites",
+                            "security",
+                            "security-information-and-event-management",
+                            "server-monitoring",
+                            "system-security",
+                            "website-monitoring"
+                        ],
+                        "detectedAt": "2024-12-03T03:38:56.224Z",
+                        "detectionTypes": [
+                            "variables"
+                        ]
+                    },
+                    {
+                        "slug": "microsoft-asp-net",
+                        "categories": [
+                            "development",
+                            "other-web-frameworks",
+                            "web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-03T03:38:56.224Z",
+                        "detectionTypes": [
+                            "urls"
+                        ]
+                    },
+                    {
+                        "slug": "paypal",
+                        "categories": [
+                            "commerce",
+                            "installment-payment-and-buy-now-pay-later",
+                            "marketplace-apps",
+                            "office",
+                            "payment",
+                            "payment-gateways",
+                            "sap-store"
+                        ],
+                        "detectedAt": "2024-12-03T03:38:56.224Z",
+                        "detectionTypes": [
+                            "scripts",
+                            "variables"
+                        ]
+                    },
+                    {
+                        "slug": "stripe",
+                        "categories": [
+                            "commerce",
+                            "financial-data-apis",
+                            "financial-services",
+                            "payment",
+                            "payment-gateways",
+                            "vertical-industry"
+                        ],
+                        "detectedAt": "2024-12-03T03:38:56.224Z",
+                        "detectionTypes": [
+                            "dns"
+                        ]
+                    }
+                ],
+                "categories": [
+                    "aiops-platforms",
+                    "api-marketplaces",
+                    "application-performance-monitoring",
+                    "cloud-file-storage",
+                    "cloud-infrastructure-monitoring",
+                    "commerce",
+                    "container-monitoring",
+                    "containerization",
+                    "database-monitoring",
+                    "development",
+                    "devops",
+                    "devsecops",
+                    "enterprise-monitoring",
+                    "financial-data-apis",
+                    "financial-services",
+                    "incident-response",
+                    "installment-payment-and-buy-now-pay-later",
+                    "iot-analytics",
+                    "iot-device-management",
+                    "iot-management",
+                    "it-alerting",
+                    "it-infrastructure",
+                    "it-management",
+                    "log-analysis",
+                    "log-monitoring",
+                    "marketplace-apps",
+                    "monitoring",
+                    "network-monitoring",
+                    "network-security",
+                    "network-traffic-analysis",
+                    "observability-solution-suites",
+                    "office",
+                    "office-suites",
+                    "other-web-frameworks",
+                    "payment",
+                    "payment-gateways",
+                    "sap-store",
+                    "security",
+                    "security-information-and-event-management",
+                    "server-monitoring",
+                    "system-security",
+                    "team-collaboration",
+                    "vertical-industry",
+                    "web-frameworks",
+                    "website-monitoring"
+                ]
+            }
+        },
+        {
+            "about": {
+                "businessType": "public-company",
+                "industries": [
+                    "computer-software",
+                    "consumer-internet",
+                    "consumers",
+                    "department-stores",
+                    "drugstores",
+                    "e-commerce",
+                    "ecommerce",
+                    "enterprise-software",
+                    "enterprises",
+                    "fashion",
+                    "fitness",
+                    "food",
+                    "grocery",
+                    "health",
+                    "health-care",
+                    "health-wellness",
+                    "healthcare",
+                    "hospital",
+                    "information-technology",
+                    "internet",
+                    "logistics",
+                    "management",
+                    "marketing",
+                    "merchandising",
+                    "operations",
+                    "retail",
+                    "retail-technology",
+                    "services",
+                    "shopping",
+                    "storage",
+                    "supply-chain",
+                    "technology",
+                    "transportation",
+                    "wellness",
+                    "online-and-mail-order-retail",
+                    "retail-apparel-and-fashion",
+                    "retail-appliances-electrical-and-electronic-equipment",
+                    "retail-health-and-personal-care-products",
+                    "retail-motor-vehicles",
+                    "retail-groceries"
+                ],
+                "industry": "retail",
+                "languages": [
+                    "eng_Latn"
+                ],
+                "name": "Walmart",
+                "nameAlts": [
+                    "walmart"
+                ],
+                "nameLegal": "Walmart Stores, Inc.",
+                "totalEmployees": "over-10k",
+                "totalEmployeesExact": 2300000,
+                "yearFounded": 1962,
+                "yearFoundedPlace": "Bentonville, Arkansas"
+            },
+            "analytics": {
+                "monthlyVisitors": "500m-1b"
+            },
+            "assets": {
+                "logoSquare": {
+                    "height": 200,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/walmart.com.jpg",
+                    "width": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://careers.walmart.com/"
+            },
+            "codes": {
+                "naics": "452910",
+                "sic": "5311"
+            },
+            "companies": {
+                "acquisitions": [
+                    {
+                        "description": "Jet(A Walmart Company) Bold vision.",
+                        "domain": "jet.com",
+                        "name": "Jet.com"
+                    }
+                ],
+                "subsidiaries": [
+                    {
+                        "description": "Asda is Reimagining Retail It\u2019s hard for anyone to imagine just how many different career possibilities there are at Asda.",
+                        "domain": "asda.jobs",
+                        "name": "Asda"
+                    },
+                    {
+                        "description": "Hayneedle.",
+                        "domain": "hayneedle.com",
+                        "name": "Hayneedle"
+                    },
+                    {
+                        "description": "Massmart, Africa's second largest retail group, comprises four divisions operating in 423 stores, across 13 sub- Saharan countries.",
+                        "domain": "massmart.co.za",
+                        "name": "Massmart"
+                    },
+                    {
+                        "description": "Moosejaw was started in 1992 by two wilderness guides driven by their enthusiasm for the outdoors and ascots.",
+                        "domain": "moosejaw.com",
+                        "name": "Moosejaw Mountaineering"
+                    },
+                    {
+                        "description": "Sam's Club is home to more than 100,000 associates in more than 650 locations all working together to provide great service and value to our members.",
+                        "domain": "samsclub.com",
+                        "name": "Sam's Club"
+                    },
+                    {
+                        "description": "Search Team One is a company based out of United States.",
+                        "domain": "execsearchplus.com",
+                        "name": "Search Team One"
+                    },
+                    {
+                        "description": "Shoes.",
+                        "domain": "shoes.com",
+                        "name": "shoes.com"
+                    },
+                    {
+                        "domain": "walmart.ca",
+                        "name": "Walmart Canada"
+                    },
+                    {
+                        "description": "O Walmart.",
+                        "domain": "walmart.com.br",
+                        "name": "Walmart eCommerce Brasil (Walmart.com)"
+                    },
+                    {
+                        "description": "La empresa l\u00edder en eCommerce en M\u00e9xico operando los sitios de Walmart, Superama, Sam's Club y Vudu.",
+                        "domain": "walmart.com.mx",
+                        "name": "Walmart eCommerce Mexico (Walmart.com.mx)"
+                    }
+                ]
+            },
+            "contacts": {
+                "emails": [
+                    {
+                        "category": "general",
+                        "value": "customerservice@walmart.com"
+                    },
+                    {
+                        "value": "support@walmart.com"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "techsupport@walmart.com"
+                    }
+                ],
+                "lines": [
+                    {
+                        "category": "general",
+                        "value": "Walmart.com Customer Service"
+                    }
+                ],
+                "phones": [
+                    {
+                        "category": "general",
+                        "value": "1-800-WALMART"
+                    },
+                    {
+                        "value": "1-800-925-6278"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "1-800-331-0085"
+                    }
+                ]
+            },
+            "descriptions": {
+                "primary": "At Walmart, we help people save money so they can live better. This mission serves as the foundation for every decision we make, from responsible sourcing to sustainability-and everything in between. As a Walmart associate, you will play an integral role in shaping the future of retail, tech, merchandising, finance and hundreds of other industries-all while affecting the lives of millions of customers all over the world. Here, your work makes an impact every day. What are you waiting for?",
+                "tagline": "Save money and live better.",
+                "website": "Shop Walmart today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no minimum order. Start your free 30-day trial now!"
+            },
+            "domain": {
+                "alias": "www.walmart.com",
+                "domain": "walmart.com",
+                "domainName": "walmart",
+                "registrar": "CSC Corporate Domains, Inc.",
+                "registrarUrl": "cscdbs.com",
+                "state": "operating",
+                "status": 200,
+                "tld": "com"
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockExchange": "nyse",
+                "stockSymbol": "WMT"
+            },
+            "locations": {
+                "headquarters": {
+                    "address": {
+                        "raw": "702 southwest 8th street"
+                    },
+                    "city": {
+                        "code": "bentonville|arkansas|us",
+                        "name": "Bentonville"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "county": {
+                        "code": "benton-county|us",
+                        "name": "Benton County"
+                    },
+                    "state": {
+                        "code": "arkansas|us",
+                        "name": "Arkansas"
+                    }
+                }
+            },
+            "meta": {
+                "listIds": [],
+                "mysqlId": 16743933,
+                "score": 99,
+                "similarity": null,
+                "syncedAt": "2025-01-03T09:55:05.067Z"
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 51.8107
+                    },
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 47.929
+                    },
+                    {
+                        "pattern": "[F1].[L]",
+                        "usagePercentage": 0.0963
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 0.0591
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.039
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 0.0305
+                    },
+                    {
+                        "pattern": "[L1][F]",
+                        "usagePercentage": 0.0128
+                    },
+                    {
+                        "pattern": "[F1][L1]",
+                        "usagePercentage": 0.0104
+                    }
+                ]
+            },
+            "socials": {
+                "facebook": {
+                    "id": "walmart",
+                    "url": "https://www.facebook.com/walmart?povid=p1171-c1093.2766-l122"
+                },
+                "instagram": {
+                    "id": "walmart",
+                    "url": "https://instagram.com/walmart"
+                },
+                "linkedin": {
+                    "idNumeric": "2646",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/2646",
+                    "url": "https://www.linkedin.com/company/2646"
+                },
+                "pinterest": {
+                    "id": "walmart",
+                    "url": "https://pinterest.com/walmart"
+                },
+                "twitter": {
+                    "id": "walmart",
+                    "url": "http://www.twitter.com/walmart"
+                },
+                "wellfound": {
+                    "id": "walmart",
+                    "url": "http://angel.co/walmart"
+                },
+                "youtube": {
+                    "id": "walmart",
+                    "url": "https://youtube.com/user/walmart"
+                }
+            },
+            "technologies": {
+                "active": [
+                    "apache",
+                    "envoy-proxy",
+                    "next-js",
+                    "react"
+                ],
+                "categories": [
+                    "application-server",
+                    "cloud-security",
+                    "it-infrastructure",
+                    "javascript-web-frameworks",
+                    "security",
+                    "service-mesh",
+                    "website-builder"
+                ],
+                "details": [
+                    {
+                        "categories": [
+                            "application-server",
+                            "it-infrastructure"
+                        ],
+                        "detectedAt": "2024-12-28T21:32:48.396Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "apache"
+                    },
+                    {
+                        "categories": [
+                            "cloud-security",
+                            "security",
+                            "service-mesh"
+                        ],
+                        "detectedAt": "2024-12-28T21:32:48.396Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "envoy-proxy"
+                    },
+                    {
+                        "categories": [
+                            "javascript-web-frameworks",
+                            "website-builder"
+                        ],
+                        "detectedAt": "2024-12-28T21:32:48.293Z",
+                        "detectionTypes": [
+                            "evaluate-version",
+                            "variables"
+                        ],
+                        "slug": "next-js",
+                        "version": "12.3.4"
+                    },
+                    {
+                        "categories": [
+                            "javascript-web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-28T21:32:48.396Z",
+                        "detectionTypes": [
+                            "scripts"
+                        ],
+                        "slug": "react"
+                    }
+                ]
+            }
+        },
+        {
+            "about": {
+                "aboutUrl": "https://www.fortinet.com/corporate/about-us/contact-us/experienced-a-breach",
+                "businessType": "public-company",
+                "industries": [
+                    "adc",
+                    "analytics",
+                    "antispam",
+                    "antivirus",
+                    "application-acceleration",
+                    "application-control",
+                    "artificial-intelligence",
+                    "availability-amp-performance",
+                    "availability-performance",
+                    "business-service-management",
+                    "cloud-management",
+                    "cloud-security",
+                    "cloud-service-management",
+                    "communications-hardware",
+                    "compliance-automation",
+                    "computer",
+                    "computer-and-network-security",
+                    "computer-networking",
+                    "computer-software",
+                    "cyber-security",
+                    "disaster-recovery",
+                    "email-security",
+                    "enterprise-firewall",
+                    "enterprise-search",
+                    "enterprise-security",
+                    "enterprise-software",
+                    "firewall",
+                    "hardware",
+                    "information-technology",
+                    "infrastructure-monitoring",
+                    "internet",
+                    "internet-security",
+                    "intrusion-prevention-system",
+                    "load-balancing",
+                    "mobile",
+                    "network-firewall",
+                    "network-security",
+                    "next-generation-firewall",
+                    "public-relations",
+                    "security",
+                    "services",
+                    "telecommunications",
+                    "threat-intelligence",
+                    "threat-research",
+                    "unified-threat-management",
+                    "virtual-appliance",
+                    "virtualization",
+                    "visibility",
+                    "vpn",
+                    "web-filtering",
+                    "web-security-gateway",
+                    "wireless",
+                    "cybersecurity",
+                    "it-services-and-it-consulting",
+                    "technology-information-and-internet",
+                    "security-systems-services",
+                    "security-and-investigations"
+                ],
+                "industry": "computer-and-network-security",
+                "languages": [
+                    "de",
+                    "en",
+                    "es",
+                    "fr",
+                    "it",
+                    "ja",
+                    "ko",
+                    "pt",
+                    "zh",
+                    "eng_Latn"
+                ],
+                "name": "Fortinet",
+                "nameAlts": [
+                    "Fortinet, Inc."
+                ],
+                "nameLegal": "Fortinet, Inc.",
+                "totalEmployees": "over-10k",
+                "totalEmployeesExact": 4500,
+                "yearFounded": 2000,
+                "yearFoundedPlace": "Sunnyvale, California"
+            },
+            "analytics": {
+                "monthlyVisitors": "10m-50m"
+            },
+            "assets": {
+                "cover": {
+                    "height": 150,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/fortinet.com.jpg",
+                    "width": 280
+                },
+                "logoSquare": {
+                    "height": 200,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/fortinet.com.jpg",
+                    "width": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://www.fortinet.com/corporate/careers/early-talent-program"
+            },
+            "codes": {
+                "naics": "541512",
+                "sic": "7373"
+            },
+            "companies": {
+                "acquisitions": [
+                    {
+                        "description": "Accelops is fundamentally changing the way organizations are managing threats to their network security, and the potential for data breaches, by dramatically decreasing the time it takes for them to identify, isolate and prevent future threats.",
+                        "descriptionShort": "Accelops is fundamentally changing the way organizations are managing threats to their network security, and the potential for data breaches, by dramatically decreasing the time it takes for them to identify, isolate and prevent future threats.",
+                        "domain": "accelops.com",
+                        "name": "AccelOps"
+                    },
+                    {
+                        "description": "Automate, Orchestrate, & Survive.",
+                        "descriptionShort": "Automate, Orchestrate, & Survive.",
+                        "domain": "cybersponse.com",
+                        "name": "CyberSponse"
+                    },
+                    {
+                        "description": "enSilo delivers the first complete endpoint security platform providing pre- and post-infection protection in real-time, defending endpoint devices from data tampering and breaches caused by advanced malware.",
+                        "descriptionShort": "enSilo delivers the first complete endpoint security platform providing pre- and post-infection protection in real-time, defending endpoint devices from data tampering and breaches caused by advanced malware.",
+                        "domain": "ensilo.com",
+                        "name": "enSilo"
+                    },
+                    {
+                        "description": "Meru's innovative approach to wireless networking uses virtualization technology to create an intelligent and self-monitoring wireless network.",
+                        "descriptionShort": "Meru's innovative approach to wireless networking uses virtualization technology to create an intelligent and self-monitoring wireless network.",
+                        "domain": "merunetworks.com",
+                        "name": "Meru Networks"
+                    },
+                    {
+                        "description": "Panopta is changing the way businesses monitor their network, servers, and applications with our advanced infrastructure monitoring platform.",
+                        "descriptionShort": "Panopta is changing the way businesses monitor their network, servers, and applications with our advanced infrastructure monitoring platform.",
+                        "domain": "panopta.com",
+                        "name": "Panopta"
+                    },
+                    {
+                        "description": "ZoneFox is the most advanced UEBA cybersecurity solution on the market - delivering truly superior Insider Threat protection the second it's switched on, and turning big data problems into valuable, actionable insights.",
+                        "descriptionShort": "ZoneFox is the most advanced UEBA cybersecurity solution on the market - delivering truly superior Insider Threat protection the second it's switched on, and turning big data problems into valuable, actionable insights.",
+                        "domain": "zonefox.com",
+                        "name": "ZoneFox"
+                    }
+                ]
+            },
+            "contacts": {
+                "emails": [
+                    {
+                        "category": "general",
+                        "value": "contact@fortinet.com"
+                    },
+                    {
+                        "category": "sales",
+                        "value": "sales@fortinet.com"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "support@fortinet.com"
+                    }
+                ],
+                "lines": [
+                    {
+                        "category": "general",
+                        "value": "Fortinet, Inc. Corporate Headquarters, 899 Kifer Road, Sunnyvale, CA 94086, United States"
+                    }
+                ],
+                "phones": [
+                    {
+                        "category": "general",
+                        "value": "+1 408-235-5500"
+                    },
+                    {
+                        "category": "sales",
+                        "value": "+1 888-363-7648"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "+1 866-683-7648"
+                    }
+                ]
+            },
+            "contents": {
+                "blogUrl": "https://www.fortinet.com/blog",
+                "docsUrl": "https://docs.fortinet.com/",
+                "eventsUrl": "https://www.fortinet.com/corporate/about-us/events",
+                "partnershipUrl": "https://www.fortinet.com/partners/technology-alliances/alliances-ecosystem",
+                "sitemapUrl": "https://www.fortinet.com/sitemap",
+                "updatesUrl": "https://www.fortinet.com/corporate/about-us/newsroom"
+            },
+            "descriptions": {
+                "primary": "Fortinet (NASDAQ: FTNT) secures the largest enterprise, service provider, and government organizations around the world. Fortinet empowers its customers with intelligent, seamless protection across the expanding attack surface and the power to take on ever-increasing performance requirements of the borderless network - today and into the future. Only the Fortinet Security Fabric architecture can deliver security without compromise to address the most critical security challenges, whether in networked, application, cloud or mobile environments. Fortinet ranks #1 in the most security appliances shipped worldwide and more than 320,000 customers trust Fortinet to protect their businesses. Learn more at  the Fortinet Blog, or FortiGuard Labs.",
+                "tagline": "Global leader in cyber security solutions and services",
+                "website": "Fortinet delivers cybersecurity wherever you need it. We secure the entire digital attack surface from devices, data, and apps and from data center to home office."
+            },
+            "domain": {
+                "alias": "www.fortinet.com",
+                "domain": "fortinet.com",
+                "domainName": "fortinet",
+                "registrar": "MarkMonitor Inc.",
+                "registrarUrl": "www.markmonitor.com",
+                "state": "operating",
+                "status": 200,
+                "tld": "com"
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockExchange": "nasdaq",
+                "stockSymbol": "FTNT"
+            },
+            "locations": {
+                "headquarters": {
+                    "address": {
+                        "raw": "899 kifer road"
+                    },
+                    "city": {
+                        "address": "899 kifer road",
+                        "code": "sunnyvale|california|us",
+                        "name": "Sunnyvale"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "county": {
+                        "code": "santa-clara-county|us",
+                        "name": "Santa Clara County"
+                    },
+                    "state": {
+                        "code": "california|us",
+                        "name": "California"
+                    }
+                }
+            },
+            "meta": {
+                "listIds": [],
+                "mysqlId": 9849,
+                "score": 99,
+                "similarity": null,
+                "syncedAt": "2025-01-17T16:46:43.586Z"
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 97.2966
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 1.4418
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 0.5922
+                    },
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 0.2832
+                    },
+                    {
+                        "pattern": "[F][L1]",
+                        "usagePercentage": 0.206
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.1287
+                    },
+                    {
+                        "pattern": "[F1].[L]",
+                        "usagePercentage": 0.0257
+                    },
+                    {
+                        "pattern": "[L1][F]",
+                        "usagePercentage": 0.0257
+                    }
+                ]
+            },
+            "socials": {
+                "facebook": {
+                    "id": "fortinet",
+                    "url": "https://facebook.com/fortinet"
+                },
+                "instagram": {
+                    "id": "fortinet",
+                    "url": "https://instagram.com/fortinet"
+                },
+                "linkedin": {
+                    "id": "fortinet",
+                    "idNumeric": "6460",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/6460",
+                    "url": "https://linkedin.com/company/fortinet"
+                },
+                "twitter": {
+                    "id": "Fortinet",
+                    "url": "https://twitter.com/Fortinet"
+                },
+                "wellfound": {
+                    "id": "fortinet",
+                    "url": "http://angel.co/fortinet"
+                },
+                "youtube": {
+                    "id": "fortinet",
+                    "url": "https://youtube.com/fortinet"
+                }
+            },
+            "technologies": {
+                "active": [
+                    "adobe-experience-manager",
+                    "amazon-cloudfront",
+                    "apache",
+                    "new-relic",
+                    "nginx",
+                    "php"
+                ],
+                "categories": [
+                    "aiops-platforms",
+                    "application-performance-monitoring",
+                    "application-server",
+                    "cloud-infrastructure-monitoring",
+                    "container-monitoring",
+                    "container-networking",
+                    "containerization",
+                    "content-delivery-network",
+                    "content-experience-platforms",
+                    "content-management",
+                    "content-marketing",
+                    "customer-communications-management",
+                    "customer-service",
+                    "ddos-protection",
+                    "development",
+                    "devops",
+                    "devsecops",
+                    "digital-experience-monitoring",
+                    "digital-experience-platforms",
+                    "digital-governance",
+                    "enterprise-content-delivery-network",
+                    "hosting",
+                    "incident-management",
+                    "it-alerting",
+                    "it-infrastructure",
+                    "it-management",
+                    "load-balancing",
+                    "log-analysis",
+                    "log-monitoring",
+                    "marketing",
+                    "monitoring",
+                    "observability-solution-suites",
+                    "programming-languages",
+                    "security",
+                    "server-monitoring",
+                    "user-generated-content",
+                    "web-accelerator",
+                    "web-application-firewalls",
+                    "web-content-management",
+                    "web-security",
+                    "web-server-accelerator"
+                ],
+                "details": [
+                    {
+                        "categories": [
+                            "content-experience-platforms",
+                            "content-management",
+                            "content-marketing",
+                            "customer-communications-management",
+                            "customer-service",
+                            "digital-experience-platforms",
+                            "digital-governance",
+                            "it-management",
+                            "marketing",
+                            "user-generated-content",
+                            "web-content-management"
+                        ],
+                        "detectedAt": "2024-12-27T19:58:04.458Z",
+                        "detectionTypes": [
+                            "scripts",
+                            "tags"
+                        ],
+                        "slug": "adobe-experience-manager"
+                    },
+                    {
+                        "categories": [
+                            "content-delivery-network",
+                            "enterprise-content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-27T19:58:04.458Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "amazon-cloudfront"
+                    },
+                    {
+                        "categories": [
+                            "application-server",
+                            "it-infrastructure"
+                        ],
+                        "detectedAt": "2024-12-27T19:58:04.458Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "apache"
+                    },
+                    {
+                        "categories": [
+                            "aiops-platforms",
+                            "application-performance-monitoring",
+                            "cloud-infrastructure-monitoring",
+                            "container-monitoring",
+                            "containerization",
+                            "development",
+                            "devops",
+                            "devsecops",
+                            "digital-experience-monitoring",
+                            "incident-management",
+                            "it-alerting",
+                            "it-infrastructure",
+                            "it-management",
+                            "log-analysis",
+                            "log-monitoring",
+                            "monitoring",
+                            "observability-solution-suites",
+                            "security",
+                            "server-monitoring"
+                        ],
+                        "detectedAt": "2024-12-27T19:58:04.458Z",
+                        "detectionTypes": [
+                            "variables"
+                        ],
+                        "slug": "new-relic"
+                    },
+                    {
+                        "categories": [
+                            "application-server",
+                            "container-networking",
+                            "containerization",
+                            "ddos-protection",
+                            "development",
+                            "devops",
+                            "devsecops",
+                            "it-infrastructure",
+                            "load-balancing",
+                            "security",
+                            "web-accelerator",
+                            "web-application-firewalls",
+                            "web-security",
+                            "web-server-accelerator"
+                        ],
+                        "detectedAt": "2024-12-27T19:58:04.458Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "nginx"
+                    },
+                    {
+                        "categories": [
+                            "programming-languages"
+                        ],
+                        "detectedAt": "2024-12-27T19:58:04.458Z",
+                        "detectionTypes": [
+                            "urls"
+                        ],
+                        "slug": "php"
+                    }
+                ]
+            }
+        },
+        {
+            "about": {
+                "aboutUrl": "https://www.abbott.com/about-abbott/our-heritage.html",
+                "businessType": "public-company",
+                "industries": [
+                    "biotechnology",
+                    "diagnostic-substances",
+                    "diagnostics",
+                    "finance",
+                    "fitness",
+                    "genetics",
+                    "health",
+                    "health-care",
+                    "health-diagnostics",
+                    "hospital",
+                    "hospital-and-health-care",
+                    "life-sciences",
+                    "medical",
+                    "medical-devices",
+                    "nutrition",
+                    "venture-capital",
+                    "wellness",
+                    "medical-and-diagnostic-laboratories",
+                    "pharmaceutical-manufacturing",
+                    "biotechnology-research",
+                    "healthcare-technology",
+                    "medical-practices"
+                ],
+                "industry": "medical-equipment-manufacturing",
+                "languages": [
+                    "eng_Latn"
+                ],
+                "name": "Abbott",
+                "nameAlts": [
+                    "Abbott Laboratories"
+                ],
+                "nameLegal": "Abbott Laboratories",
+                "totalEmployees": "over-10k",
+                "totalEmployeesExact": 148410,
+                "yearFounded": 1888,
+                "yearFoundedPlace": "United States"
+            },
+            "analytics": {
+                "monthlyVisitors": "10m-50m"
+            },
+            "assets": {
+                "cover": {
+                    "height": 536,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/abbott.com.jpg",
+                    "width": 1440
+                },
+                "logoSquare": {
+                    "height": 200,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/abbott.com.jpg",
+                    "width": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://www.abbott.com/careers/diversity-and-inclusion.html"
+            },
+            "codes": {
+                "naics": "325412",
+                "sic": "2835"
+            },
+            "companies": {
+                "acquisitions": [
+                    {
+                        "description": "Alere is now Abbott.",
+                        "descriptionShort": "Alere is now Abbott.",
+                        "domain": "alere.com",
+                        "name": "Alere"
+                    },
+                    {
+                        "description": "Alere is now Abbott.",
+                        "descriptionShort": "Alere is now Abbott.",
+                        "domain": "escreen.com",
+                        "name": "Alere eScreen"
+                    },
+                    {
+                        "description": "St.",
+                        "descriptionShort": "St.",
+                        "domain": "sjm.com",
+                        "name": "St. Jude Medical"
+                    }
+                ]
+            },
+            "contacts": {
+                "emails": [
+                    {
+                        "category": "general",
+                        "value": "info@abbott.com"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "techsupport@abbott.com"
+                    },
+                    {
+                        "value": "careers@abbott.com"
+                    }
+                ],
+                "lines": [
+                    {
+                        "category": "general",
+                        "value": "100 Abbott Park Road, Abbott Park, IL 60064"
+                    }
+                ],
+                "phones": [
+                    {
+                        "category": "general",
+                        "value": "+1 (847) 937-6100"
+                    },
+                    {
+                        "value": "1-800-467-5678"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "+1 (800) 323-9100"
+                    }
+                ],
+                "whatsapps": [
+                    {
+                        "category": "general",
+                        "value": "+1 (847) 937-6100"
+                    }
+                ]
+            },
+            "contents": {
+                "eventsUrl": "https://www.abbott.com/careers/conferences-and-events.html",
+                "partnershipUrl": "https://www.abbott.com/partners.html",
+                "updatesUrl": "https://www.abbott.com/corpnewsroom/utilities/media-contacts.html"
+            },
+            "descriptions": {
+                "primary": "At Abbott, we're committed to helping you live your best possible life through the power of health. For more than 125 years, we've brought new products and technologies to the world -- in nutrition, diagnostics, medical devices and branded generic pharmaceuticals -- that create more possibilities for more people at all stages of life. Today, 94,000 of us are working to help people live not just longer, but better, in the more than 150 countries we serve. Connect with us at www.abbott.com, on Facebook at www.facebook.com/Abbott and www.facebook.com/AbbottCareers, on Instagram @AbbottGlobal, and on Twitter @AbbottNews and @AbbottGlobal. We invite you to explore opportunities at Abbott, to see if your talents and career aspirations may fit with our openings. An equal opportunity employer, Abbott welcomes and encourages diversity in our workforce.",
+                "tagline": "Life-changing health care technologies",
+                "website": "Innovative medical devices and healthcare solutions for cardiovascular health, diabetes management, diagnostic testing, nutrition, chronic pain and more."
+            },
+            "domain": {
+                "alias": "www.abbott.com",
+                "domain": "abbott.com",
+                "domainName": "abbott",
+                "registrar": "CSC Corporate Domains, Inc.",
+                "registrarUrl": "cscdbs.com",
+                "state": "operating",
+                "status": 200,
+                "tld": "com"
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockExchange": "nyse",
+                "stockSymbol": "ABT"
+            },
+            "locations": {
+                "headquarters": {
+                    "address": {
+                        "raw": "100 Abbott Park Rd"
+                    },
+                    "city": {
+                        "address": "100 Abbott Park Rd",
+                        "code": "north-chicago|illinois|us",
+                        "name": "North Chicago"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "county": {
+                        "code": "lake-county|us",
+                        "name": "Lake County"
+                    },
+                    "state": {
+                        "code": "illinois|us",
+                        "name": "Illinois"
+                    }
+                }
+            },
+            "meta": {
+                "listIds": [],
+                "mysqlId": 23307,
+                "score": 98,
+                "similarity": null,
+                "syncedAt": "2025-01-03T21:47:14.427Z"
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 99.4397
+                    },
+                    {
+                        "pattern": "[L].[F]",
+                        "usagePercentage": 0.1788
+                    },
+                    {
+                        "pattern": "[F1].[L]",
+                        "usagePercentage": 0.1199
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 0.0937
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.0894
+                    },
+                    {
+                        "pattern": "[F].[L1]",
+                        "usagePercentage": 0.0153
+                    },
+                    {
+                        "pattern": "[F]_[L]",
+                        "usagePercentage": 0.0153
+                    },
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 0.0131
+                    }
+                ]
+            },
+            "socials": {
+                "facebook": {
+                    "id": "Abbott",
+                    "url": "https://facebook.com/Abbott"
+                },
+                "instagram": {
+                    "id": "abbottglobal",
+                    "url": "https://instagram.com/abbottglobal"
+                },
+                "linkedin": {
+                    "id": "abbott-",
+                    "idNumeric": "1612",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1612",
+                    "url": "https://linkedin.com/company/abbott-"
+                },
+                "twitter": {
+                    "id": "abbottnews",
+                    "url": "https://twitter.com/abbottnews"
+                },
+                "wellfound": {
+                    "id": "abbott-labs",
+                    "url": "http://angel.co/abbott-labs"
+                },
+                "youtube": {
+                    "id": "abbott",
+                    "url": "https://youtube.com/c/abbott"
+                }
+            },
+            "technologies": {
+                "active": [
+                    "adobe-experience-manager",
+                    "amazon-cloudfront",
+                    "apache",
+                    "cloudflare-cdn",
+                    "google-tag-manager",
+                    "microsoft-asp-net",
+                    "new-relic"
+                ],
+                "categories": [
+                    "aiops-platforms",
+                    "application-performance-monitoring",
+                    "application-server",
+                    "cloud-infrastructure-monitoring",
+                    "container-monitoring",
+                    "containerization",
+                    "content-delivery-network",
+                    "content-experience-platforms",
+                    "content-management",
+                    "content-marketing",
+                    "customer-communications-management",
+                    "customer-service",
+                    "development",
+                    "devops",
+                    "devsecops",
+                    "digital-analytics",
+                    "digital-experience-monitoring",
+                    "digital-experience-platforms",
+                    "digital-governance",
+                    "enterprise-content-delivery-network",
+                    "hosting",
+                    "incident-management",
+                    "it-alerting",
+                    "it-infrastructure",
+                    "it-management",
+                    "log-analysis",
+                    "log-monitoring",
+                    "marketing",
+                    "monitoring",
+                    "observability-solution-suites",
+                    "other-web-frameworks",
+                    "security",
+                    "server-monitoring",
+                    "tag-management",
+                    "user-generated-content",
+                    "web-content-management",
+                    "web-frameworks"
+                ],
+                "details": [
+                    {
+                        "categories": [
+                            "content-experience-platforms",
+                            "content-management",
+                            "content-marketing",
+                            "customer-communications-management",
+                            "customer-service",
+                            "digital-experience-platforms",
+                            "digital-governance",
+                            "it-management",
+                            "marketing",
+                            "user-generated-content",
+                            "web-content-management"
+                        ],
+                        "detectedAt": "2024-12-28T03:54:56.277Z",
+                        "detectionTypes": [
+                            "scripts",
+                            "tags"
+                        ],
+                        "slug": "adobe-experience-manager"
+                    },
+                    {
+                        "categories": [
+                            "content-delivery-network",
+                            "enterprise-content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-28T03:54:56.277Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "amazon-cloudfront"
+                    },
+                    {
+                        "categories": [
+                            "application-server",
+                            "it-infrastructure"
+                        ],
+                        "detectedAt": "2024-12-28T03:54:56.277Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "apache"
+                    },
+                    {
+                        "categories": [
+                            "content-delivery-network",
+                            "enterprise-content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-28T03:54:56.277Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "cloudflare-cdn"
+                    },
+                    {
+                        "categories": [
+                            "digital-analytics",
+                            "marketing",
+                            "tag-management"
+                        ],
+                        "detectedAt": "2024-12-28T03:54:56.277Z",
+                        "detectionTypes": [
+                            "variables"
+                        ],
+                        "slug": "google-tag-manager"
+                    },
+                    {
+                        "categories": [
+                            "development",
+                            "other-web-frameworks",
+                            "web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-28T03:54:56.277Z",
+                        "detectionTypes": [
+                            "urls"
+                        ],
+                        "slug": "microsoft-asp-net"
+                    },
+                    {
+                        "categories": [
+                            "aiops-platforms",
+                            "application-performance-monitoring",
+                            "cloud-infrastructure-monitoring",
+                            "container-monitoring",
+                            "containerization",
+                            "development",
+                            "devops",
+                            "devsecops",
+                            "digital-experience-monitoring",
+                            "incident-management",
+                            "it-alerting",
+                            "it-infrastructure",
+                            "it-management",
+                            "log-analysis",
+                            "log-monitoring",
+                            "monitoring",
+                            "observability-solution-suites",
+                            "security",
+                            "server-monitoring"
+                        ],
+                        "detectedAt": "2024-12-28T03:54:56.277Z",
+                        "detectionTypes": [
+                            "variables"
+                        ],
+                        "slug": "new-relic"
+                    }
+                ]
+            }
+        },
+        {
+            "about": {
+                "aboutUrl": "https://about.att.com/privacy/choices-and-controls.html",
+                "businessType": "public-company",
+                "industries": [
+                    "home-services",
+                    "information-technology",
+                    "internet",
+                    "internet-service-providers",
+                    "mobile",
+                    "mobile-phone-accessories",
+                    "mobile-phones",
+                    "professional-services",
+                    "radiotelephone-communication",
+                    "service-industry",
+                    "services",
+                    "shopping",
+                    "telecommunications",
+                    "television-service-providers",
+                    "uverse",
+                    "wireless",
+                    "wireless-services",
+                    "internet-services",
+                    "mobile-telecommunications",
+                    "satellite-telecommunications",
+                    "technology-information-and-media",
+                    "media-and-telecommunications"
+                ],
+                "industry": "telecommunications",
+                "languages": [
+                    "eng_Latn"
+                ],
+                "name": "AT&T",
+                "nameAlts": [
+                    "AT&T"
+                ],
+                "nameLegal": "AT&T Inc.",
+                "totalEmployees": "over-10k",
+                "totalEmployeesExact": 149000,
+                "yearFounded": 1885,
+                "yearFoundedPlace": "San Francisco, CA"
+            },
+            "analytics": {
+                "monthlyVisitors": "over-1b"
+            },
+            "assets": {
+                "logoSquare": {
+                    "height": 200,
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/att.com.jpg",
+                    "width": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://www.att.jobs/"
+            },
+            "codes": {
+                "naics": "517112",
+                "sic": "4812"
+            },
+            "contacts": {
+                "emails": [
+                    {
+                        "category": "general",
+                        "value": "support@att.com"
+                    },
+                    {
+                        "value": "help@att.com"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "techsupport@att.com"
+                    }
+                ],
+                "lines": [
+                    {
+                        "category": "general",
+                        "value": "AT&T Customer Support"
+                    }
+                ],
+                "phones": [
+                    {
+                        "category": "general",
+                        "value": "1-800-331-0500"
+                    },
+                    {
+                        "value": "1-800-288-2020"
+                    },
+                    {
+                        "category": "technical",
+                        "value": "1-800-922-0204"
+                    }
+                ],
+                "whatsapps": [
+                    {
+                        "value": "+1 (800) 331-0500"
+                    }
+                ]
+            },
+            "contents": {
+                "sitemapUrl": "https://www.att.com/sitemap/"
+            },
+            "descriptions": {
+                "primary": "We understand that our customers want an easier, less complicated life. We're using our network, labs, products, services and people to create a world where everything works together seamlessly, and life is better as a result. How will we continue to drive for this excellence in innovation? With you. Our people, and their passion to succeed, are at the heart of what we do. Today, we're poised to connect millions of people with their world, delivering the human benefits of technology in ways that defy the imaginable. What are you dreaming of doing with your career? Find stories about our talent, career advice, opportunities, company news, and innovations here on LinkedIn. To learn more about joining AT&T, visit:  To explore AT&T Labs, Foundry, and more, visit:  To follow AT&T Small Business community, visit:",
+                "tagline": "Our Best Wireless and Internet Service",
+                "website": "Shop deals on new phones including iPhone 16, unlimited data plans, and home internet with AT&T Fiber. Get 24/7 support, pay your bills & manage your account online."
+            },
+            "domain": {
+                "alias": "www.att.com",
+                "domain": "att.com",
+                "domainName": "att",
+                "registrar": "CSC Corporate Domains, Inc.",
+                "registrarUrl": "cscdbs.com",
+                "state": "operating",
+                "status": 200,
+                "tld": "com"
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockExchange": "nyse",
+                "stockSymbol": "T"
+            },
+            "locations": {
+                "headquarters": {
+                    "address": {
+                        "raw": "208 south akard street"
+                    },
+                    "city": {
+                        "address": "208 south akard street",
+                        "code": "dallas|texas|us",
+                        "name": "Dallas"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "county": {
+                        "code": "dallas-county|us",
+                        "name": "Dallas County"
+                    },
+                    "state": {
+                        "code": "texas|us",
+                        "name": "Texas"
+                    }
+                }
+            },
+            "meta": {
+                "listIds": [],
+                "mysqlId": 16744143,
+                "score": 97,
+                "similarity": null,
+                "syncedAt": "2025-01-14T18:07:34.851Z"
+            },
+            "products": {
+                "pricingUrl": "https://www.att.com/plans/tablet-ipad-data-plans/"
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 93.8209
+                    },
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 3.0695
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 1.5385
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.8318
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 0.156
+                    },
+                    {
+                        "pattern": "[L][F1]",
+                        "usagePercentage": 0.103
+                    },
+                    {
+                        "pattern": "[F1].[L]",
+                        "usagePercentage": 0.097
+                    },
+                    {
+                        "pattern": "[F][L1]",
+                        "usagePercentage": 0.0773
+                    },
+                    {
+                        "pattern": "[L][F]",
+                        "usagePercentage": 0.0644
+                    },
+                    {
+                        "pattern": "[F]_[L]",
+                        "usagePercentage": 0.0538
+                    },
+                    {
+                        "pattern": "[F1][L1]",
+                        "usagePercentage": 0.0515
+                    },
+                    {
+                        "pattern": "[L].[F]",
+                        "usagePercentage": 0.0409
+                    },
+                    {
+                        "pattern": "[F]-[L]",
+                        "usagePercentage": 0.0364
+                    },
+                    {
+                        "pattern": "[L1][F]",
+                        "usagePercentage": 0.0227
+                    },
+                    {
+                        "pattern": "[F].[L1]",
+                        "usagePercentage": 0.0114
+                    }
+                ]
+            },
+            "socials": {
+                "facebook": {
+                    "id": "ATT",
+                    "url": "https://facebook.com/ATT"
+                },
+                "instagram": {
+                    "id": "att",
+                    "url": "https://instagram.com/att"
+                },
+                "linkedin": {
+                    "id": "att",
+                    "idNumeric": "1052",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1052",
+                    "url": "https://linkedin.com/company/att"
+                },
+                "twitter": {
+                    "id": "att",
+                    "url": "https://x.com/att"
+                },
+                "wellfound": {
+                    "id": "at-t",
+                    "url": "http://angel.co/at-t"
+                },
+                "youtube": {
+                    "id": "att",
+                    "url": "https://youtube.com/att"
+                }
+            },
+            "technologies": {
+                "active": [
+                    "akamai",
+                    "google-tag-manager",
+                    "microsoft-asp-net",
+                    "next-js",
+                    "nginx"
+                ],
+                "categories": [
+                    "application-server",
+                    "container-networking",
+                    "containerization",
+                    "content-delivery-network",
+                    "ddos-protection",
+                    "development",
+                    "devops",
+                    "devsecops",
+                    "digital-analytics",
+                    "hosting",
+                    "it-infrastructure",
+                    "javascript-web-frameworks",
+                    "load-balancing",
+                    "marketing",
+                    "other-web-frameworks",
+                    "security",
+                    "tag-management",
+                    "web-accelerator",
+                    "web-application-firewalls",
+                    "web-frameworks",
+                    "web-security",
+                    "web-server-accelerator",
+                    "website-builder"
+                ],
+                "details": [
+                    {
+                        "categories": [
+                            "content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-29T01:35:05.795Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "akamai"
+                    },
+                    {
+                        "categories": [
+                            "digital-analytics",
+                            "marketing",
+                            "tag-management"
+                        ],
+                        "detectedAt": "2024-12-29T01:35:05.795Z",
+                        "detectionTypes": [
+                            "scripts",
+                            "variables"
+                        ],
+                        "slug": "google-tag-manager"
+                    },
+                    {
+                        "categories": [
+                            "development",
+                            "other-web-frameworks",
+                            "web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-29T01:35:05.795Z",
+                        "detectionTypes": [
+                            "urls"
+                        ],
+                        "slug": "microsoft-asp-net"
+                    },
+                    {
+                        "categories": [
+                            "javascript-web-frameworks",
+                            "website-builder"
+                        ],
+                        "detectedAt": "2024-12-29T01:35:05.629Z",
+                        "detectionTypes": [
+                            "evaluate-version",
+                            "variables"
+                        ],
+                        "slug": "next-js",
+                        "version": "12.3.4"
+                    },
+                    {
+                        "categories": [
+                            "application-server",
+                            "container-networking",
+                            "containerization",
+                            "ddos-protection",
+                            "development",
+                            "devops",
+                            "devsecops",
+                            "it-infrastructure",
+                            "load-balancing",
+                            "security",
+                            "web-accelerator",
+                            "web-application-firewalls",
+                            "web-security",
+                            "web-server-accelerator"
+                        ],
+                        "detectedAt": "2024-12-29T01:35:05.795Z",
+                        "detectionTypes": [
+                            "headers"
+                        ],
+                        "slug": "nginx"
+                    }
+                ]
+            }
+        },
+        {
+            "meta": {
+                "listIds": [],
+                "mysqlId": 16744574,
+                "score": 97,
+                "similarity": null,
+                "syncedAt": "2025-01-02T19:18:39.007Z"
+            },
+            "about": {
+                "name": "Uber",
+                "industry": "transportation-logistics-supply-chain-and-storage",
+                "nameAlts": [
+                    "uber",
+                    "uber for business",
+                    "uber technologies",
+                    "uber technologies, inc",
+                    "uberforbusiness",
+                    "ubertechnologies",
+                    "ubertechnologies,inc"
+                ],
+                "industries": [
+                    "expense-management-software",
+                    "hotels",
+                    "information-technology",
+                    "internet",
+                    "logistics",
+                    "mobile",
+                    "mobile-apps",
+                    "prepackaged-software",
+                    "public-transportation",
+                    "ride-sharing",
+                    "ride-sharing-software",
+                    "services",
+                    "software",
+                    "taxis",
+                    "technology",
+                    "transportation",
+                    "travel",
+                    "travel-management-software",
+                    "ground-passenger-transportation",
+                    "freight-and-package-transportation",
+                    "mobile-food-services",
+                    "technology-information-and-internet",
+                    "mobile-computing-software-products",
+                    "delivery-services"
+                ],
+                "yearFounded": 2009,
+                "totalEmployees": "over-10k",
+                "totalEmployeesExact": 32900,
+                "aboutUrl": "https://www.uber.com/us/en/about/how-does-uber-work/",
+                "languages": [
+                    "ar",
+                    "bg",
+                    "bn",
+                    "cs",
+                    "da",
+                    "de",
+                    "el",
+                    "en",
+                    "es",
+                    "et",
+                    "fi",
+                    "fr",
+                    "he",
+                    "hi",
+                    "hr",
+                    "hu",
+                    "it",
+                    "ja",
+                    "kn",
+                    "ko",
+                    "lt",
+                    "mr",
+                    "nb",
+                    "nl",
+                    "pl",
+                    "pt",
+                    "ro",
+                    "ru",
+                    "si",
+                    "sk",
+                    "sl",
+                    "sv",
+                    "sw",
+                    "ta",
+                    "te",
+                    "tr",
+                    "uk",
+                    "ur",
+                    "zh",
+                    "eng_Latn"
+                ],
+                "nameLegal": "Uber Technologies Inc.",
+                "businessType": "public-company",
+                "yearFoundedPlace": "San Francisco"
+            },
+            "codes": {
+                "sic": "4121",
+                "naics": "485310"
+            },
+            "domain": {
+                "tld": "com",
+                "domain": "uber.com",
+                "domainName": "uber",
+                "alias": "www.uber.com",
+                "state": "operating",
+                "status": 200,
+                "registrar": "MarkMonitor Inc.",
+                "registrarUrl": "www.markmonitor.com"
+            },
+            "socials": {
+                "twitter": {
+                    "id": "uber",
+                    "url": "https://twitter.com/uber"
+                },
+                "facebook": {
+                    "id": "uber",
+                    "url": "https://facebook.com/uber"
+                },
+                "linkedin": {
+                    "url": "https://linkedin.com/company/1815218",
+                    "idNumeric": "1815218",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1815218"
+                },
+                "wellfound": {
+                    "id": "uber",
+                    "url": "http://angel.co/uber"
+                },
+                "youtube": {
+                    "id": "UCgnxoUwDmmyzeigmmcf0hZA",
+                    "url": "https://youtube.com/channel/UCgnxoUwDmmyzeigmmcf0hZA"
+                },
+                "instagram": {
+                    "id": "uber",
+                    "url": "https://instagram.com/uber"
+                }
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockSymbol": "UBER",
+                "stockExchange": "nyse"
+            },
+            "analytics": {
+                "monthlyVisitors": "over-1b"
+            },
+            "locations": {
+                "headquarters": {
+                    "city": {
+                        "code": "san-francisco|california|us",
+                        "name": "San Francisco",
+                        "address": "1455 market street"
+                    },
+                    "state": {
+                        "code": "california|us",
+                        "name": "California"
+                    },
+                    "county": {
+                        "code": "san-francisco|us",
+                        "name": "San Francisco"
+                    },
+                    "address": {
+                        "raw": "1455 market street"
+                    },
+                    "country": {
+                        "code": "us",
+                        "name": "United States"
+                    },
+                    "continent": {
+                        "code": "na",
+                        "name": "North America"
+                    }
+                }
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 74.833
+                    },
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 7.0305
+                    },
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 6.838
+                    },
+                    {
+                        "pattern": "[F][L1]",
+                        "usagePercentage": 5.1964
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 4.2794
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 1.1208
+                    },
+                    {
+                        "pattern": "[F1][L1]",
+                        "usagePercentage": 0.4302
+                    },
+                    {
+                        "pattern": "[L1][F]",
+                        "usagePercentage": 0.0792
+                    },
+                    {
+                        "pattern": "[F].[L1]",
+                        "usagePercentage": 0.0679
+                    },
+                    {
+                        "pattern": "[F1].[L]",
+                        "usagePercentage": 0.034
+                    },
+                    {
+                        "pattern": "[L][F1]",
+                        "usagePercentage": 0.034
+                    },
+                    {
+                        "pattern": "[F]_[L]",
+                        "usagePercentage": 0.034
+                    },
+                    {
+                        "pattern": "[F1].[L1]",
+                        "usagePercentage": 0.0226
+                    }
+                ]
+            },
+            "descriptions": {
+                "primary": "We believe that by solving some of the biggest problems of our time, we can create a future where there is limitless freedom of movement for people and things all across the world. Just talk to our people - and feel their passion, optimism and curiosity for building solutions every single day on behalf of drivers, riders, couriers, eaters and employees. While the tough problems we face everyday can be incredibly difficult to figure out, we believe those same problems enable us to personally grow the most. So we welcome people from all backgrounds who have the passion to change the world and also want to help create a supportive and collaborative environment. So that ultimately, we can learn together, solve together, build together, and move the world forward together.",
+                "tagline": "Explore the Uber platform",
+                "website": "Learn how you can leverage the Uber platform and apps to earn more, eat, commute, get a ride, simplify business travel, and more."
+            },
+            "apps": {
+                "ios": [
+                    {
+                        "id": "368677368",
+                        "url": "https://itunes.apple.com/app/id368677368",
+                        "type": "app"
+                    }
+                ],
+                "android": [
+                    {
+                        "id": "com.ubercab",
+                        "url": "https://play.google.com/store/apps/details?id=com.ubercab",
+                        "type": "app"
+                    }
+                ]
+            },
+            "assets": {
+                "logoSquare": {
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/uber.com.jpg",
+                    "width": 200,
+                    "height": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://www.uber.com/us/en/careers/"
+            },
+            "contents": {
+                "blogUrl": "https://www.uber.com/blog/",
+                "updatesUrl": "https://www.uber.com/newsroom/"
+            },
+            "technologies": {
+                "active": [
+                    "apple-business-manager",
+                    "cloudflare-cdn",
+                    "envoy-proxy",
+                    "google-cloud",
+                    "google-workspace",
+                    "hotjar",
+                    "stripe",
+                    "tealium"
+                ],
+                "details": [
+                    {
+                        "slug": "apple-business-manager",
+                        "categories": [
+                            "cloud-file-storage",
+                            "office-suites",
+                            "team-collaboration"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "dns"
+                        ]
+                    },
+                    {
+                        "slug": "cloudflare-cdn",
+                        "categories": [
+                            "content-delivery-network",
+                            "enterprise-content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "headers"
+                        ]
+                    },
+                    {
+                        "slug": "envoy-proxy",
+                        "categories": [
+                            "cloud-security",
+                            "security",
+                            "service-mesh"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "headers"
+                        ]
+                    },
+                    {
+                        "slug": "google-cloud",
+                        "categories": [
+                            "archive-storage",
+                            "block-storage",
+                            "cloud-file-storage",
+                            "cloud-platform-as-a-service",
+                            "container-management",
+                            "container-orchestration",
+                            "container-registry",
+                            "containerization",
+                            "development",
+                            "devops",
+                            "hybrid-cloud-storage",
+                            "it-infrastructure",
+                            "load-balancing",
+                            "object-storage",
+                            "storage-management",
+                            "virtual-private-cloud"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "headers"
+                        ]
+                    },
+                    {
+                        "slug": "google-workspace",
+                        "categories": [
+                            "business-instant-messaging",
+                            "calendar",
+                            "cloud-content-collaboration",
+                            "content-management",
+                            "document-creation",
+                            "email",
+                            "idea-management",
+                            "internal-communications",
+                            "note-taking-management",
+                            "office",
+                            "office-suites",
+                            "presentation",
+                            "screen-sharing",
+                            "spreadsheets",
+                            "survey",
+                            "team-collaboration",
+                            "video-conferencing",
+                            "website-builder"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "dns"
+                        ]
+                    },
+                    {
+                        "slug": "hotjar",
+                        "categories": [
+                            "conversion-rate-optimization",
+                            "heatmap",
+                            "marketing",
+                            "session-replay",
+                            "user-research"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "variables"
+                        ]
+                    },
+                    {
+                        "slug": "stripe",
+                        "categories": [
+                            "commerce",
+                            "financial-data-apis",
+                            "financial-services",
+                            "payment",
+                            "payment-gateways",
+                            "vertical-industry"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "dns"
+                        ]
+                    },
+                    {
+                        "slug": "tealium",
+                        "categories": [
+                            "marketing",
+                            "tag-management"
+                        ],
+                        "detectedAt": "2024-12-31T17:33:47.728Z",
+                        "detectionTypes": [
+                            "scripts"
+                        ]
+                    }
+                ],
+                "categories": [
+                    "archive-storage",
+                    "block-storage",
+                    "business-instant-messaging",
+                    "calendar",
+                    "cloud-content-collaboration",
+                    "cloud-file-storage",
+                    "cloud-platform-as-a-service",
+                    "cloud-security",
+                    "commerce",
+                    "container-management",
+                    "container-orchestration",
+                    "container-registry",
+                    "containerization",
+                    "content-delivery-network",
+                    "content-management",
+                    "conversion-rate-optimization",
+                    "development",
+                    "devops",
+                    "document-creation",
+                    "email",
+                    "enterprise-content-delivery-network",
+                    "financial-data-apis",
+                    "financial-services",
+                    "heatmap",
+                    "hosting",
+                    "hybrid-cloud-storage",
+                    "idea-management",
+                    "internal-communications",
+                    "it-infrastructure",
+                    "load-balancing",
+                    "marketing",
+                    "note-taking-management",
+                    "object-storage",
+                    "office",
+                    "office-suites",
+                    "payment",
+                    "payment-gateways",
+                    "presentation",
+                    "screen-sharing",
+                    "security",
+                    "service-mesh",
+                    "session-replay",
+                    "spreadsheets",
+                    "storage-management",
+                    "survey",
+                    "tag-management",
+                    "team-collaboration",
+                    "user-research",
+                    "vertical-industry",
+                    "video-conferencing",
+                    "virtual-private-cloud",
+                    "website-builder"
+                ]
+            },
+            "contacts": {
+                "lines": [
+                    {
+                        "value": "1455 Market Street, San Francisco, CA 94103, USA",
+                        "category": "general"
+                    }
+                ],
+                "emails": [
+                    {
+                        "value": "help@uber.com",
+                        "category": "general"
+                    },
+                    {
+                        "value": "support@uber.com"
+                    },
+                    {
+                        "value": "business@uber.com"
+                    },
+                    {
+                        "value": "careers@uber.com"
+                    }
+                ],
+                "phones": [
+                    {
+                        "value": "+1 (415) 874-5000",
+                        "category": "general"
+                    },
+                    {
+                        "value": "+1 (800) 592-8996"
+                    }
+                ],
+                "whatsapps": [
+                    {
+                        "value": "+1 (415) 874-5000"
+                    }
+                ]
+            }
+        },
+        {
+            "meta": {
+                "listIds": [],
+                "mysqlId": 4080,
+                "score": 97,
+                "similarity": null,
+                "syncedAt": "2025-01-02T18:31:13.338Z"
+            },
+            "about": {
+                "name": "Accenture",
+                "industry": "business-consulting-and-services",
+                "nameAlts": [
+                    "Accenture | U.S. | Let There Be Change"
+                ],
+                "industries": [
+                    "application",
+                    "b2b",
+                    "business-process-outsourcing",
+                    "business-services",
+                    "construction",
+                    "consulting",
+                    "enterprise-software",
+                    "information-technology",
+                    "information-technology-and-services",
+                    "infrastructure-outsourcing",
+                    "management-consulting",
+                    "outsourcing",
+                    "services",
+                    "software",
+                    "systems-integration",
+                    "technology",
+                    "business-consulting-and-services",
+                    "it-services-and-it-consulting",
+                    "technology-information-and-media",
+                    "digital-consulting",
+                    "strategy-consulting",
+                    "operations-consulting",
+                    "technology-information-and-internet",
+                    "professional-services"
+                ],
+                "yearFounded": 2001,
+                "totalEmployees": "over-10k",
+                "totalEmployeesExact": 774000,
+                "aboutUrl": "https://www.accenture.com/us-en/support/company-cookies-similar-technology",
+                "languages": [
+                    "eng_Latn"
+                ],
+                "nameLegal": "Accenture PLC",
+                "businessType": "public-company",
+                "yearFoundedPlace": "Illinois, U.S.A."
+            },
+            "domain": {
+                "tld": "com",
+                "domain": "accenture.com",
+                "domainName": "accenture",
+                "alias": "www.accenture.com",
+                "state": "operating",
+                "status": 200,
+                "registrar": "CSC Corporate Domains, Inc.",
+                "registrarUrl": "cscdbs.com"
+            },
+            "socials": {
+                "twitter": {
+                    "id": "Accenture_US",
+                    "url": "https://twitter.com/Accenture_US"
+                },
+                "youtube": {
+                    "id": "accenture",
+                    "url": "https://youtube.com/accenture"
+                },
+                "facebook": {
+                    "id": "accenture",
+                    "url": "https://facebook.com/accenture"
+                },
+                "linkedin": {
+                    "url": "https://linkedin.com/company/accenture",
+                    "idNumeric": "1033",
+                    "salesNavigatorUrl": "https://www.linkedin.com/sales/company/1033",
+                    "id": "accenture"
+                },
+                "wellfound": {
+                    "id": "accenture",
+                    "url": "http://angel.co/accenture"
+                },
+                "instagram": {
+                    "id": "accenture",
+                    "url": "https://instagram.com/accenture/&quot"
+                }
+            },
+            "finances": {
+                "revenue": "over-1b",
+                "stockSymbol": "ACN",
+                "stockExchange": "nyse"
+            },
+            "analytics": {
+                "monthlyVisitors": "10m-50m"
+            },
+            "companies": {
+                "acquisitions": [
+                    {
+                        "name": "Davies Consulting",
+                        "domain": "daviescon.com",
+                        "description": "Davies Consulting was founded in 1991 as an international strategy and management consulting firm.",
+                        "descriptionShort": "Davies Consulting was founded in 1991 as an international strategy and management consulting firm."
+                    },
+                    {
+                        "name": "Accenture Enkitec Group",
+                        "domain": "enkitec.com",
+                        "description": "Accenture Enkitec Group is a global systems integrator specializing in the Oracle platform.",
+                        "descriptionShort": "Accenture Enkitec Group is a global systems integrator specializing in the Oracle platform."
+                    },
+                    {
+                        "name": "Nashco Consulting",
+                        "domain": "nashcosolutions.com",
+                        "description": "Nashco is now part of Accenture.",
+                        "descriptionShort": "Nashco is now part of Accenture."
+                    }
+                ],
+                "subsidiaries": [
+                    {
+                        "name": "accenture belgium & luxembourg",
+                        "domain": "accenture-insights.be"
+                    },
+                    {
+                        "name": "Accenture DACH",
+                        "domain": "accenture.de",
+                        "description": "Accenture ist ein weltweit f\u00fchrender Managementberatungs-, Technologie- und Outsourcing-Dienstleister.",
+                        "descriptionShort": "Accenture ist ein weltweit f\u00fchrender Managementberatungs-, Technologie- und Outsourcing-Dienstleister."
+                    },
+                    {
+                        "name": "Accenture Espa\u00f1a",
+                        "domain": "accenture.es",
+                        "description": "Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations.",
+                        "descriptionShort": "Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations."
+                    },
+                    {
+                        "name": "Accenture Interactive",
+                        "domain": "accentureinteractive.com",
+                        "description": "Accenture Interactive, working with clients to deliver the best customer experiences on the planet.",
+                        "descriptionShort": "Accenture Interactive, working with clients to deliver the best customer experiences on the planet."
+                    },
+                    {
+                        "name": "Accenture Italia",
+                        "domain": "accenture.it",
+                        "description": "Accenture \u00e8 un'azienda leader a livello globale nel settore dei servizi professionali, che fornisce una vasta gamma di servizi e soluzioni nei settori strategy, consulting, digital, technology e operations.",
+                        "descriptionShort": "Accenture \u00e8 un'azienda leader a livello globale nel settore dei servizi professionali, che fornisce una vasta gamma di servizi e soluzioni nei settori strategy, consulting, digital, technology e operations."
+                    },
+                    {
+                        "name": "accenture na slovensku",
+                        "domain": "accenture.sk"
+                    },
+                    {
+                        "name": "Accenture Portugal",
+                        "domain": "accenture.pt",
+                        "description": "A Accenture \u00e9 uma organiza\u00e7\u00e3o global l\u00edder em servi\u00e7os profissionais que oferece uma ampla gama de servi\u00e7os e solu\u00e7\u00f5es em estrat\u00e9gia, consultoria, digital, tecnologia e opera\u00e7\u00f5es.",
+                        "descriptionShort": "A Accenture \u00e9 uma organiza\u00e7\u00e3o global l\u00edder em servi\u00e7os profissionais que oferece uma ampla gama de servi\u00e7os e solu\u00e7\u00f5es em estrat\u00e9gia, consultoria, digital, tecnologia e opera\u00e7\u00f5es."
+                    },
+                    {
+                        "name": "Accenture the Netherlands",
+                        "domain": "accenture.nl",
+                        "description": "Change drives us forward.",
+                        "descriptionShort": "Change drives us forward."
+                    },
+                    {
+                        "name": "Accenture UK",
+                        "domain": "accenture.co.uk",
+                        "description": "Accenture solves our clients'\u200b toughest challenges by providing unmatched services in strategy, consulting, digital, technology and operations.",
+                        "descriptionShort": "Accenture solves our clients'\u200b toughest challenges by providing unmatched services in strategy, consulting, digital, technology and operations."
+                    },
+                    {
+                        "name": "Advo",
+                        "domain": "advocoinc.com",
+                        "description": "Advoco is a leading Infor EAM software consulting services company.",
+                        "descriptionShort": "Advoco is a leading Infor EAM software consulting services company."
+                    },
+                    {
+                        "name": "Blue Horseshoe",
+                        "domain": "bhsolutions.com",
+                        "description": "Blue Horseshoe is a privately held solution services firm based in North America; providing expert management & strategy consulting, system design, implementation, and optimization, and distribution design services to Fortune 500 and mid-market businesses throughout the world.",
+                        "descriptionShort": "Blue Horseshoe is a privately held solution services firm based in North America; providing expert management & strategy consulting, system design, implementation, and optimization, and distribution design services to Fortune 500 and mid-market businesses throughout the world."
+                    },
+                    {
+                        "name": "Bow&Arrow",
+                        "domain": "bowandarrow.com",
+                        "description": "WHAT IS BOW & ARROW? B&A is the only ultra-specialist consultancy in identifying, building and implementing game-changing strategies, products and services.",
+                        "descriptionShort": "WHAT IS BOW & ARROW? B&A is the only ultra-specialist consultancy in identifying, building and implementing game-changing strategies, products and services."
+                    },
+                    {
+                        "name": "Fjord",
+                        "domain": "fjordnet.com",
+                        "description": "Fjord, design and innovation from Accenture Interactive, reimagines people's relationships with the digital and physical world around them.",
+                        "descriptionShort": "Fjord, design and innovation from Accenture Interactive, reimagines people's relationships with the digital and physical world around them."
+                    },
+                    {
+                        "name": "REPL Group",
+                        "domain": "replgroup.com",
+                        "description": "REPL Group delivers technology and management solutions which transform business operations and processes.",
+                        "descriptionShort": "REPL Group delivers technology and management solutions which transform business operations and processes."
+                    },
+                    {
+                        "name": "Workforce Insight",
+                        "domain": "workforceinsight.com",
+                        "description": "Workforce Insight is the leading provider of strategic workforce management consulting and implementation services, committed to helping global enterprises leverage technology to enhance and preserve their most valuable asset -- their people.",
+                        "descriptionShort": "Workforce Insight is the leading provider of strategic workforce management consulting and implementation services, committed to helping global enterprises leverage technology to enhance and preserve their most valuable asset -- their people."
+                    }
+                ]
+            },
+            "locations": {
+                "headquarters": {
+                    "city": {
+                        "code": "dublin|leinster|ie",
+                        "name": "Dublin"
+                    },
+                    "state": {
+                        "code": "leinster|ie",
+                        "name": "Leinster"
+                    },
+                    "country": {
+                        "code": "ie",
+                        "name": "Ireland"
+                    },
+                    "continent": {
+                        "code": "eu",
+                        "name": "Europe"
+                    }
+                }
+            },
+            "secondaries": {
+                "emailPatterns": [
+                    {
+                        "pattern": "[F].[L]",
+                        "usagePercentage": 98.3879
+                    },
+                    {
+                        "pattern": "[F1].[L]",
+                        "usagePercentage": 0.7772
+                    },
+                    {
+                        "pattern": "[L].[F]",
+                        "usagePercentage": 0.2695
+                    },
+                    {
+                        "pattern": "[F]_[L]",
+                        "usagePercentage": 0.1466
+                    },
+                    {
+                        "pattern": "[F].[M1].[L]",
+                        "usagePercentage": 0.1245
+                    },
+                    {
+                        "pattern": "[F1][L]",
+                        "usagePercentage": 0.0681
+                    },
+                    {
+                        "pattern": "[L]",
+                        "usagePercentage": 0.0637
+                    },
+                    {
+                        "pattern": "[F]",
+                        "usagePercentage": 0.0589
+                    },
+                    {
+                        "pattern": "[L1].[F]",
+                        "usagePercentage": 0.0304
+                    },
+                    {
+                        "pattern": "[F].[L1]",
+                        "usagePercentage": 0.0236
+                    },
+                    {
+                        "pattern": "[F].[M].[L]",
+                        "usagePercentage": 0.0228
+                    },
+                    {
+                        "pattern": "[F][L]",
+                        "usagePercentage": 0.0188
+                    }
+                ]
+            },
+            "descriptions": {
+                "primary": "Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions - underpinned by the world's largest delivery network - Accenture works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With approximately 425,000 people serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives. Visit us at www.accenture.com.",
+                "tagline": "The United States",
+                "website": "Accenture embraces the power of change to create 360\u00b0 value and shared success for our clients, people, shareholders, partners and communities."
+            },
+            "apps": {
+                "ios": [
+                    {
+                        "id": "1570610876",
+                        "url": "https://apps.apple.com/in/app/accenture-foresight/id1570610876",
+                        "type": "app"
+                    }
+                ],
+                "android": [
+                    {
+                        "id": "com.accenture.tlapp",
+                        "url": "https://play.google.com/store/apps/details?id=com.accenture.tlapp",
+                        "type": "app"
+                    }
+                ]
+            },
+            "assets": {
+                "cover": {
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/covers/accenture.com.jpg",
+                    "width": 1200,
+                    "height": 628
+                },
+                "logoSquare": {
+                    "src": "https://thecompaniesapi.s3.fr-par.scw.cloud/companies/logos/square/accenture.com.jpg",
+                    "width": 200,
+                    "height": 200
+                }
+            },
+            "careers": {
+                "careersUrl": "https://www.accenture.com/us-en/careers/life-at-accenture/work-environment"
+            },
+            "contacts": {
+                "phones": [
+                    {
+                        "value": "+1 (312) 737-8013",
+                        "category": "general"
+                    },
+                    {
+                        "value": "+1 (877) ACCENTURE"
+                    },
+                    {
+                        "value": "+1 (312) 693-0968",
+                        "category": "sales"
+                    }
+                ],
+                "lines": [
+                    {
+                        "value": "Global Headquarters: 300 E. Randolph St., Chicago, IL 60601, United States",
+                        "category": "general"
+                    }
+                ],
+                "emails": [
+                    {
+                        "value": "contact@accenture.com",
+                        "category": "general"
+                    },
+                    {
+                        "value": "careers@accenture.com"
+                    },
+                    {
+                        "value": "sales@accenture.com",
+                        "category": "sales"
+                    },
+                    {
+                        "value": "support@accenture.com",
+                        "category": "technical"
+                    }
+                ],
+                "whatsapps": [
+                    {
+                        "value": "+1 (312) 737-8013",
+                        "category": "general"
+                    }
+                ]
+            },
+            "contents": {
+                "blogUrl": "https://www.accenture.com/us-en/blogs/blogs-careers",
+                "updatesUrl": "https://newsroom.accenture.com/",
+                "developersUrl": "https://www.accenture.com/us-en/services/infrastructure-capital-projects",
+                "partnershipUrl": "https://www.accenture.com/us-en/services/ecosystem-partners"
+            },
+            "technologies": {
+                "active": [
+                    "adobe-experience-manager",
+                    "amazon-cloudfront",
+                    "apple-business-manager",
+                    "onetrust",
+                    "react",
+                    "stripe"
+                ],
+                "details": [
+                    {
+                        "slug": "adobe-experience-manager",
+                        "categories": [
+                            "content-experience-platforms",
+                            "content-management",
+                            "content-marketing",
+                            "customer-communications-management",
+                            "customer-service",
+                            "digital-experience-platforms",
+                            "digital-governance",
+                            "it-management",
+                            "marketing",
+                            "user-generated-content",
+                            "web-content-management"
+                        ],
+                        "detectedAt": "2024-12-27T18:14:10.058Z",
+                        "detectionTypes": [
+                            "scripts",
+                            "tags"
+                        ]
+                    },
+                    {
+                        "slug": "amazon-cloudfront",
+                        "categories": [
+                            "content-delivery-network",
+                            "enterprise-content-delivery-network",
+                            "hosting"
+                        ],
+                        "detectedAt": "2024-12-27T18:14:10.058Z",
+                        "detectionTypes": [
+                            "headers"
+                        ]
+                    },
+                    {
+                        "slug": "apple-business-manager",
+                        "categories": [
+                            "cloud-file-storage",
+                            "office-suites",
+                            "team-collaboration"
+                        ],
+                        "detectedAt": "2024-12-27T18:14:10.058Z",
+                        "detectionTypes": [
+                            "dns"
+                        ]
+                    },
+                    {
+                        "slug": "onetrust",
+                        "categories": [
+                            "business-continuity-management",
+                            "cookie-tracking",
+                            "grc-platforms",
+                            "operational-risk-management",
+                            "policy-management",
+                            "privacy-impact-assessment",
+                            "privacy-policy-generator",
+                            "risk-assessment",
+                            "sensitive-data-discovery",
+                            "sustainability-management",
+                            "third-party-and-supplier-risk-management",
+                            "vendor-security-and-privacy-assessment",
+                            "consent-management-platforms",
+                            "data-privacy",
+                            "data-privacy-management",
+                            "data-subject-access-request",
+                            "marketplace-apps",
+                            "office",
+                            "servicenow-marketplace-apps",
+                            "security",
+                            "vertical-industry"
+                        ],
+                        "detectedAt": "2024-12-27T18:14:10.058Z",
+                        "detectionTypes": [
+                            "urls"
+                        ]
+                    },
+                    {
+                        "slug": "react",
+                        "categories": [
+                            "javascript-web-frameworks"
+                        ],
+                        "detectedAt": "2024-12-27T18:14:10.058Z",
+                        "detectionTypes": [
+                            "scripts"
+                        ]
+                    },
+                    {
+                        "slug": "stripe",
+                        "categories": [
+                            "commerce",
+                            "financial-data-apis",
+                            "financial-services",
+                            "payment",
+                            "payment-gateways",
+                            "vertical-industry"
+                        ],
+                        "detectedAt": "2024-12-27T18:14:10.058Z",
+                        "detectionTypes": [
+                            "dns"
+                        ]
+                    }
+                ],
+                "categories": [
+                    "business-continuity-management",
+                    "cloud-file-storage",
+                    "commerce",
+                    "consent-management-platforms",
+                    "content-delivery-network",
+                    "content-experience-platforms",
+                    "content-management",
+                    "content-marketing",
+                    "cookie-tracking",
+                    "customer-communications-management",
+                    "customer-service",
+                    "data-privacy",
+                    "data-privacy-management",
+                    "data-subject-access-request",
+                    "digital-experience-platforms",
+                    "digital-governance",
+                    "enterprise-content-delivery-network",
+                    "financial-data-apis",
+                    "financial-services",
+                    "grc-platforms",
+                    "hosting",
+                    "it-management",
+                    "javascript-web-frameworks",
+                    "marketing",
+                    "marketplace-apps",
+                    "office",
+                    "office-suites",
+                    "operational-risk-management",
+                    "payment",
+                    "payment-gateways",
+                    "policy-management",
+                    "privacy-impact-assessment",
+                    "privacy-policy-generator",
+                    "risk-assessment",
+                    "security",
+                    "sensitive-data-discovery",
+                    "servicenow-marketplace-apps",
+                    "sustainability-management",
+                    "team-collaboration",
+                    "third-party-and-supplier-risk-management",
+                    "user-generated-content",
+                    "vendor-security-and-privacy-assessment",
+                    "vertical-industry",
+                    "web-content-management"
+                ]
+            },
+            "codes": {
+                "sic": "8742",
+                "naics": "541612"
+            }
+        }
+    ],
+    "maxScrollResultsReached": false,
+    "meta": {
+        "currentPage": 1,
+        "firstPage": 1,
+        "lastPage": 1700866,
+        "perPage": 10,
+        "total": 17008656
+    }
+}
